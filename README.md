@@ -1,12 +1,12 @@
 # ThreeWave Capture The Flag Archive
 
-**ThreeWave Capture the Flag** or "ThreeWaveCTF" or "TWCTF, perhaps one of the most popular third-party modifications for  for Quake, the 1996 computer game by id Software.
+This project archives all releases of ThreeWave Capture the Flag for Quake 1.
+
+**ThreeWave Capture the Flag** or "ThreeWaveCTF" or "TWCTF is a widely popular third-party modifications for Quake, the 1996 computer game by id Software. It was developed and maintained by Dave Kirsch aka "Zoid" (and team) circa 1996-1997.
 
 Description of ThreeWaveCTF from the release readme file:
 
 > Capture the flag offers an exciting variation on team play.  It gives meaning to base defense along with offensive positioning and strikes. [...] The basic premise is: attack the enemy base, grab their flag than take it back to your base.  In the variation I've written into Quake, you must touch your base flag when carrying the enemy flag in order to score.
-
-This project archives all releases for ThreeWave CTF.
 
 ## ThreeWave CTF Release List
 
