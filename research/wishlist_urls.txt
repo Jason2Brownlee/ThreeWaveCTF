@@ -1,0 +1,11 @@
+# known but broken urls to wishlist filenames
+
+ftp://bluesnews.com/pub/quakec/teamplay/3wave25.zip
+ftp://bluesnews.com/pub/quakec/teamplay/3wctfc3b.zip
+http://quake.threewave.com/3wave201.zip
+http://quake.threewave.com/3wave22.zip
+http://quake.threewave.com/3wave25.zip
+http://redwood.gatsbyhouse.com/files/3wctfc3b.zip
+http://redwood.gatsbyhouse.com/quake/files/3wave25.zip
+http://redwood.stomped.com/files/3wave25.zip
+http://redwood.stomped.com/files/3wctfc3b.zip

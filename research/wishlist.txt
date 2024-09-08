@@ -1,0 +1,12 @@
+# filename wishlist
+
+# known filenames
+3wave201.zip
+3wave22.zip
+3wave25.zip
+3wctfc3b.zip
+
+# guessed at filenames
+3wave10.zip
+3wave20.zip
+3wave24.zip
