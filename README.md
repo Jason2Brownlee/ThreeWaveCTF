@@ -8,6 +8,10 @@ Description of ThreeWaveCTF from the release readme file:
 
 > Capture the flag offers an exciting variation on team play.  It gives meaning to base defense along with offensive positioning and strikes. [...] The basic premise is: attack the enemy base, grab their flag than take it back to your base.  In the variation I've written into Quake, you must touch your base flag when carrying the enemy flag in order to score.
 
+Read the reconstructed history of the mod releases here:
+
+* [ThreeWave CTF Release History](research/history.md)
+
 ## ThreeWave CTF Release List
 
 Chronological list of official releases in [bin/](bin/) including date, filename link, and description.
