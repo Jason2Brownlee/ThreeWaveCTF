@@ -1289,6 +1289,8 @@ Historical locations for `oh-1196-ctfc.zip`:
 * http://www.cdrom.com/pub/idgames2/demos/oh-1196-ctfc.zip
 * http://www.gameaholic.com/deicide/download.cgi?/demos/j-q/oh-1196-ctfc.zip
 
+**At the time of writing a copy of the original demo file releases have not been acquired.**
+
 ## Wad
 
 A package of CTF map textures, called a WAD, was released as `ctf3wad.zip` circa November 30 1996.
@@ -1913,5 +1915,155 @@ Credits:        Dave Kirsch (Zoid) for the CTF progs.
 -- idctf1.txt
 
 ## QWCTF 1.1
+
+The release was announced on BluesNews on January 2nd 1997:
+
+> QuakeWorld CTF Grappling Hook\
+> Apparently John Cash stepped up in the clutch and knocked off that last bug, so Threewave QuakeWorld CTF Server Version 1.1 has been released on Threewave. The new server includes the long awaited (well it seemed long) return of the grappling hook. This is an update to the server patch--clients do not need to download anything new.
+
+-- [https://www.bluesnews.com/archives/dec96-4.html](https://www.bluesnews.com/archives/dec96-4.html)
+
+Links:
+
+* https://www.bluesnews.com/files/3wqw11.zip
+
+It was also mentioned on QuakeHole:
+
+> Threewave released the CTF QW server with the grappling hook!
+
+-- [http://www.quakehole.com/frames/oldnews.html](https://web.archive.org/web/19971210064427/http://www.quakehole.com/frames/oldnews.html) (archived)
+
+This release was announced on Shake N' Quake on January 2nd 1997 (mis-labelled 1996):
+
+> 1-2-96, Thursday, 4:00 AM EST (O)\
+> QuakeWorld CTF: Well, John Cash helped fix the bug with QW and the CTF Grappling Hook. So Threewave released QuakeWorld CTF Server v1.1 which is only the Server upgrade, the Client side does not need to be upgraded.
+
+-- [http://www.canvasnet.com/quake/](https://web.archive.org/web/19990221161618/http://www.canvasnet.com/quake/) (archive)
+
+Links:
+
+* http://www.planetquake.com/quakex/threewave/
+* ftp://ftp.canvasnet.com/quake/ctf/3wqw11.zip
+
+The release was discussed on January 1st on Redwoods:
+
+> 2:45p.m. CST\
+> I saw on blue's that Zoid has one final bug in the Grappling Hook for QuakeWorld CTF that he talks about on Threewave. The bug is tough to pin down and doesn't always occur (I hate those) so he's asked id for help.
+
+And again:
+
+> 11:50p.m. CST
+> Thanks to blue for emailing me with the info that the server code for the Grappling Hook (yep, the bug is squashed) is available. If you are just playing the game you DO NOT need this file, it's only for CTF server ops. Download 3wqw11.zip and check Threewave for more info.
+
+-- [http://redwood.gatsbyhouse.com/quake/197.html](https://web.archive.org/web/19970327200851/http://redwood.gatsbyhouse.com/quake/197.html) (archived)
+
+With links:
+
+* http://redwood.gatsbyhouse.com/quake/files/ctf/3wqw11.zip
+
+Historical locations for `3wqw11.zip` include:
+
+* ftp://ftp.canvasnet.com/quake/ctf/3wqw11.zip
+* ftp://ftp.cdrom.com/pub/quake/planetquake/threewave/ctf/server/3wqw11.zip
+* ftp://ftp.stomped.com/pub/redwood/ctf/3wqw11.zip
+* ftp://ftp.vision.net.au/pub/quake_stuff/extras/3wqw11.zip
+* http://bluesnews.com/files/3wqw11.zip
+* http://ftp.sunet.se/planetquake/threewave/ctf/server/3wqw11.zip
+* http://jord.sbc.edu/dragon/files/ctf/3wqw11.zip
+* http://jord.sbc.edu/files/ctf/3wqw11.zip
+* http://quakemecca.simplenet.com/files/downloads/3wqw11.zip
+* http://quakemecca.simplenet.com/files/downloads/files/downloads/3wqw11.zip
+* http://redwood.gatsbyhouse.com/files/ctf/3wqw11.zip
+* http://redwood.gatsbyhouse.com/quake/files/ctf/3wqw11.zip
+* http://redwood.stomped.com/files/ctf/3wqw11.zip
+* http://www.bluesnews.com/files/3wqw11.zip
+* http://www.gore.org/files/qw/3wqw11.zip
+* http://www.gore.org/files/server/3wqw11.zip
+* http://www.imaxx.net/~dakota/capture/FILES/3wqw11.zip
+* http://www.planetquake.com/quakex/threewave/3wqw11.zip
+* http://www.time2quake.com/filez/threewave/ctf/server/3wqw11.zip
+* https://www.quaddicted.com/files/idgames2/planetquake/threewave/ctf/server/3wqw11.zip
+* https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/threewave/ctf/server/3wqw11.zip
+
+The content of the archive:
+
+```text
+-rw-rw-r--  0 0      0        1765  4 Oct  1996 capture.txt
+-rw-rw-r--  0 0      0       19900  2 Jan  1997 server.txt
+-rw-rw-r--  0 0      0         186 27 Dec  1996 server.cfg
+-rw-rw-r--  0 0      0      243216  2 Jan  1997 progs.dat
+-rw-rw-r--  0 0      0       30836 17 Sep  1996 maps/e1m1.ent
+-rw-rw-r--  0 0      0       44058 21 Sep  1996 maps/e1m2.ent
+-rw-rw-r--  0 0      0       48571 28 Sep  1996 maps/e1m3.ent
+-rw-rw-r--  0 0      0       46337 25 Sep  1996 maps/e1m4.ent
+-rw-rw-r--  0 0      0       44142 23 Sep  1996 maps/e1m5.ent
+-rw-rw-r--  0 0      0       38838 23 Sep  1996 maps/e1m6.ent
+-rw-rw-r--  0 0      0       36972 27 Oct  1996 maps/e1m8.ent
+-rw-rw-r--  0 0      0       35022 29 Sep  1996 maps/e2m1.ent
+-rw-rw-r--  0 0      0       28163  6 Oct  1996 maps/e2m2.ent
+-rw-rw-r--  0 0      0       39829 29 Sep  1996 maps/e2m3.ent
+-rw-rw-r--  0 0      0       45578  8 Oct  1996 maps/e2m5.ent
+-rw-rw-r--  0 0      0       42672  7 Oct  1996 maps/e4m3.ent
+-rw-rw-r--  0 0      0       48880 18 Oct  1996 maps/e4m5.ent
+-rw-rw-r--  0 0      0       43154 19 Oct  1996 maps/e4m6.ent
+-rw-rw-r--  0 0      0       46326 21 Oct  1996 maps/e4m4.ent
+-rw-rw-r--  0 0      0       11745 23 Oct  1996 maps/dm6.ent
+-rw-rw-r--  0 0      0       14410 31 Oct  1996 maps/dm3.ent
+-rw-rw-r--  0 0      0         108 18 Oct  1996 maps/dobsp.bat
+-rw-rw-r--  0 0      0          52  4 Oct  1996 maps/dobsp.sh
+-rw-rw-r--  0 0      0       20328 31 Dec  1996 src/DEFS.QC
+-rw-rw-r--  0 0      0        3051  4 Dec  1996 src/BUTTONS.QC
+-rw-rw-r--  0 0      0         655  4 Dec  1996 src/CHARSET.TXT
+-rw-rw-r--  0 0      0       49257  2 Jan  1997 src/CLIENT.QC
+-rw-rw-r--  0 0      0        7742 14 Dec  1996 src/COMBAT.QC
+-rw-rw-r--  0 0      0       33579  1 Jan  1997 src/WEAPONS.QC
+-rw-rw-r--  0 0      0       17137 14 Dec  1996 src/DOORS.QC
+-rw-rw-r--  0 0      0         224 28 Dec  1996 src/PROGS.SRC
+-rw-rw-r--  0 0      0       38320  1 Jan  1997 src/TEAMPLAY.QC
+-rw-rw-r--  0 0      0       35294  1 Jan  1997 src/ITEMS.QC
+-rw-rw-r--  0 0      0       17068 29 Dec  1996 src/MISC.QC
+-rw-rw-r--  0 0      0        9515  4 Dec  1996 src/MODELS.QC
+-rw-rw-r--  0 0      0        8057  4 Dec  1996 src/PLATS.QC
+-rw-rw-r--  0 0      0       19837 29 Dec  1996 src/PLAYER.QC
+-rw-rw-r--  0 0      0       13412  1 Jan  1997 src/GRAPPLE.QC
+-rw-rw-r--  0 0      0        2464  4 Dec  1996 src/SERVER.QC
+-rw-rw-r--  0 0      0         473  4 Dec  1996 src/SPRITES.QC
+-rw-rw-r--  0 0      0        5888  4 Dec  1996 src/SUBS.QC
+-rw-rw-r--  0 0      0       15282 28 Dec  1996 src/TRIGGERS.QC
+-rw-rw-r--  0 0      0        1560  4 Dec  1996 src/TELEFRAG.QC
+-rw-rw-r--  0 0      0       12344 28 Dec  1996 src/WORLD.QC
+-rw-rw-r--  0 0      0        2541  2 Jan  1997 src/PROGDEFS.H
+-rw-rw-r--  0 0      0        6314  2 Jan  1997 src/FILES.DAT
+-rw-rw-r--  0 0      0       29316  4 Dec  1996 skins/ctfr1.pcx
+-rw-rw-r--  0 0      0       29346  4 Dec  1996 skins/ctfr2.pcx
+-rw-rw-r--  0 0      0       29284  4 Dec  1996 skins/ctfb1.pcx
+-rw-rw-r--  0 0      0       29316  4 Dec  1996 skins/ctfb2.pcx
+-rw-rw-r--  0 0      0       30449  4 Dec  1996 skins/base.pcx
+```
+
+The header from the readme:
+
+```text
+Title    : Threewave QuakeWorld Capture
+Filename : 3wqw11.zip
+Version  : 1.10
+Date     : 96-12-27
+Author   : Dave 'Zoid' Kirsch
+Email    : zoid@threewave.com
+...
+```
+-- server.txt
+
+
+
+
+
+
+
+
+
+
+
+
 
 
