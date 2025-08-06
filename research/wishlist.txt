@@ -10,3 +10,8 @@
 3wave10.zip
 3wave20.zip
 3wave24.zip
+
+# demos
+oh-1196-ctfa.zip
+oh-1196-ctfb.zip
+oh-1196-ctfc.zip

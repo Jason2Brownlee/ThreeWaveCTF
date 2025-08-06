@@ -1,14 +1,36 @@
 # known but broken urls to wishlist filenames
 
+# 3wave201.zip
+http://quake.threewave.com/3wave201.zip
+
+# 3wave22.zip
+http://quake.threewave.com/3wave22.zip
+
+# 3wave25.zip
 ftp://bluesnews.com/pub/quakec/teamplay/3wave25.zip
+ftp://ftp.canvasnet.com/quake/ctf/3wave25.zip
+http://redwood.stomped.com/files/3wave25.zip
+http://quake.threewave.com/3wave25.zip
+http://redwood.gatsbyhouse.com/quake/files/3wave25.zip
+
+# 3wctfc3b.zip
 ftp://bluesnews.com/pub/quakec/teamplay/3wctfc3b.zip
 ftp://ftp.canvasnet.com/incoming/quake/3wctfc3b.zip
-ftp://ftp.canvasnet.com/quake/ctf/3wave25.zip
-http://quake.threewave.com/3wave201.zip
-http://quake.threewave.com/3wave22.zip
-http://quake.threewave.com/3wave25.zip
 http://quake.threewave.com/3wctfc3b.zip
 http://redwood.gatsbyhouse.com/files/3wctfc3b.zip
-http://redwood.gatsbyhouse.com/quake/files/3wave25.zip
-http://redwood.stomped.com/files/3wave25.zip
 http://redwood.stomped.com/files/3wctfc3b.zip
+
+# oh-1196-ctfa.zip
+ftp://nctuccca.edu.tw/PC/games/QUAKE/demos/j-q/oh-1196-ctfa.zip
+http://www.cdrom.com/pub/idgames2/demos/oh-1196-ctfa.zip
+http://www.gameaholic.com/deicide/download.cgi?/demos/j-q/oh-1196-ctfa.zip
+
+# oh-1196-ctfb.zip
+ftp://nctuccca.edu.tw/PC/games/QUAKE/demos/j-q/oh-1196-ctfb.zip
+http://www.cdrom.com/pub/idgames2/demos/oh-1196-ctfb.zip
+http://www.gameaholic.com/deicide/download.cgi?/demos/j-q/oh-1196-ctfb.zip
+
+# oh-1196-ctfc.zip
+ftp://nctuccca.edu.tw/PC/games/QUAKE/demos/j-q/oh-1196-ctfc.zip
+http://www.cdrom.com/pub/idgames2/demos/oh-1196-ctfc.zip
+http://www.gameaholic.com/deicide/download.cgi?/demos/j-q/oh-1196-ctfc.zip

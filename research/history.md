@@ -1271,6 +1271,81 @@ Evidence for this can be seen in this file listing:
 
 -- [nctuccca.edu.tw/PC/games/QUAKE/demos/j-q/](https://web.archive.org/web/19970321200124/nctuccca.edu.tw/PC/games/QUAKE/demos/j-q/) (archived)
 
+Historical locations for `oh-1196-ctfa.zip`:
+
+* ftp://nctuccca.edu.tw/PC/games/QUAKE/demos/j-q/oh-1196-ctfa.zip
+* http://www.cdrom.com/pub/idgames2/demos/oh-1196-ctfa.zip
+* http://www.gameaholic.com/deicide/download.cgi?/demos/j-q/oh-1196-ctfa.zip
+
+Historical locations for `oh-1196-ctfb.zip`:
+
+* ftp://nctuccca.edu.tw/PC/games/QUAKE/demos/j-q/oh-1196-ctfb.zip
+* http://www.cdrom.com/pub/idgames2/demos/oh-1196-ctfb.zip
+* http://www.gameaholic.com/deicide/download.cgi?/demos/j-q/oh-1196-ctfb.zip
+
+Historical locations for `oh-1196-ctfc.zip`:
+
+* ftp://nctuccca.edu.tw/PC/games/QUAKE/demos/j-q/oh-1196-ctfc.zip
+* http://www.cdrom.com/pub/idgames2/demos/oh-1196-ctfc.zip
+* http://www.gameaholic.com/deicide/download.cgi?/demos/j-q/oh-1196-ctfc.zip
+
+## Wad
+
+A package of CTF map textures, called a WAD, was released as `ctf3wad.zip` circa November 30 1996.
+
+Content of `ctf3wad.zip`:
+
+```text
+-rw-rw-r--  0 0      0     1209096 30 Nov  1996 ctf3.wad
+-rw-rw-r--  0 0      0         977 30 Nov  1996 readthis.txt
+```
+
+Header from readme:
+
+```text
+This is a wadfile I made that contains the textures from the set
+of levels for the Capture the Flag 3 patch.  If it's missing any,
+I am sorry---the size of this file took me by surprise, and I had
+to cut out a few textures that I found were in the base.wad,
+wizard.wad, medieval.wad, and metal.wad as well as the ctf3 levels.
+I did include most of the textures though.
+...
+```
+
+-- readthis.txt
+
+Some historical locations for this file:
+
+* ftp://ftp.canvasnet.com/quake/ctf/ctf3wad.zip
+* ftp://ftp.cdrom.com/pub/idgames2/graphics/texture_wads/ctf3wad.zip
+* ftp://ftp.compulink.co.uk/pub/games/id/quake/graphics/texture_wads/ctf3wad.zip
+* ftp://ftp.datacomm.ch/pub/idgames2/graphics/texture_wads/ctf3wad.zip
+* ftp://ftp.epix.net/pub/idgames2/graphics/texture_wads/ctf3wad.zip
+* ftp://ftp.gamers.org/pub/games/idgames2/graphics/texture_wads/ctf3wad.zip
+* ftp://ftp.iis.com.br/pub/mirror/Quake/graphics/texture_wads/ctf3wad.zip
+* ftp://ftp.powerup.com.au/pub/games/quake/graphics/texture_wads/ctf3wad.zip
+* ftp://ftp.sci.fi/pub/idgames2/graphics/texture_wads/ctf3wad.zip
+* ftp://ftp.sunet.se/pub/pc/games/idgames2/graphics/texture_wads/ctf3wad.zip
+* ftp://ftp.task.gda.pl/pub/games/idgames2/graphics/texture_wads/ctf3wad.zip
+* ftp://ftp.telepac.pt/pub/idgames2/graphics/texture_wads/ctf3wad.zip
+* ftp://mirror.aarnet.edu.au/pub/idgames2/graphics/texture_wads/ctf3wad.zip
+* ftp://sunsite.doc.ic.ac.uk/packages/idgames2/graphics/texture_wads/ctf3wad.zip
+* http://asp.planetquake.com/dl/dl.asp?leveled/wad/ctf3wad.zip
+* http://dd.networx.net.au/cgi-bin/pftp.pl?/pub/editing/wads/ctf3wad.zip
+* http://ftp.gamers.org/pub/games/idgames2/graphics/texture_wads/ctf3wad.zip
+* http://ftp.mancubus.net/pub/idgames2/graphics/texture_wads/ctf3wad.zip
+* http://ftp.sunet.se/idgames2/graphics/texture_wads/ctf3wad.zip
+* http://ftp.sunet.se/pub/pc/games/idgames2/graphics/texture_wads/ctf3wad.zip
+* http://ftp.telepac.pt/pub/idgames2/graphics/texture_wads/ctf3wad.zip
+* http://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/quake/graphics/texture_wads/ctf3wad.zip
+* http://www.cdrom.com/pub/idgames2/graphics/texture_wads/ctf3wad.zip
+* http://www.gameaholic.com/deicide/download.cgi?/graphics/texture_wads/ctf3wad.zip
+* http://www.gamers.org/pub/games/idgames2/graphics/texture_wads/ctf3wad.zip
+* http://www.gamers.org/pub/idgames2/graphics/texture_wads/ctf3wad.zip
+* http://www.globalsoft.com.au/cgi-bin/pftp.pl?/pub/editing/wads/ctf3wad.zip
+* http://www.time2quake.com/filez/graphics/texture_wads/ctf3wad.zip
+* https://www.quaddicted.com/files/idgames2/graphics/texture_wads/ctf3wad.zip
+* https://www.quaddicted.com/files/wads/ctf3wad.zip
 
 ## v3.2
 
@@ -1420,7 +1495,7 @@ Email    : zoid@threewave.com
 -- server.txt
 
 
-## CTF Map Secrets
+## Secrets
 
 A demo showing the location of secrets in CTF maps was released as `secrets.zip`.
 
@@ -1666,7 +1741,7 @@ Email    : zoid@threewave.com
 
 -- server.txt
 
-## id Software CTF Map
+## idctf1
 
 Tim Willits released a map for CTF. Although not a 3wave release, we'll mention it here in the history.
 
@@ -1836,4 +1911,7 @@ Credits:        Dave Kirsch (Zoid) for the CTF progs.
 ```
 
 -- idctf1.txt
+
+## QWCTF 1.1
+
 
