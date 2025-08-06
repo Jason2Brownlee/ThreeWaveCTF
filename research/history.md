@@ -1179,6 +1179,98 @@ This was also mentioned on QuakeHole as a "release":
 -- [http://redwood.gatsbyhouse.com/quake/1196.html](https://web.archive.org/web/19970327200928/http://redwood.gatsbyhouse.com/quake/1196.html) (archived)
 
 
+## Demos
+
+Demos of CTF maps were released circa December 2nd 1996:
+
+* `demo1.zip`: Multiplayer CTF Demo (McKinley Base).
+* `demo2.zip`: Multiplayer CTF Demo (Da Ancient War Grounds)
+* `demo3.zip`: Multiplayer CTF Demo (The Strongbox)
+
+Content of `demo1.zip`:
+
+```text
+-rw-rw-r--  0 0      0     4510146 30 Nov  1996 ctfdemo1.dem
+-rw-rw-r--  0 0      0        2581  2 Dec  1996 ctfdemo1.txt
+```
+
+Header of `demo1.zip/ctfdemo1.txt`:
+
+```text
+File name:      oh-1196-ctfa.zip
+Description:    Demo file of a 16 player LAN CTF3.01 deathmatch.
+                This demo was recorded on 11/30/96 at the Perry,
+                Ohio DeathFest.  We had 22+ people in attendance
+                so we ran dedicated servers most of the night,
+                hence the lack of demos.
+
+                As you may notice, we're using CTF3.01 with my
+                TeleWeapons v2.1 patch integrated.
+
+                This demo starts off with 2 1/2 minutes of me
+                just standing there waiting for people to join
+                the game.  Go get some munchies while you wait;
+                it's boring.
+Playtime:       22 minutes, 12 seconds.
+Level:          CTF1.  McKinley Base
+...
+```
+
+-- ctfdemo1.txt
+
+**At the time of writing a copy of `demo2.zip` has not been acquired.**
+
+Contents of `demo3.zip`:
+
+```text
+-rw-rw-r--  0 0      0     2980403 30 Nov  1996 ctfdemo3.dem
+-rw-rw-r--  0 0      0        2178  2 Dec  1996 ctfdemo3.txt
+```
+
+Header of `demo3.zip/ctfdemo1.txt`:
+
+```text
+
+File name:      oh-1196-ctfc.zip
+Description:    Demo file of a 6 player LAN CTF3.01 deathmatch.
+                This demo was recorded on 11/30/96 at the Perry,
+                Ohio DeathFest.  We had 22+ people in attendance
+                so we ran dedicated servers most of the night,
+                hence the lack of demos.
+
+                As you may notice, we're using CTF3.01 with my
+                TeleWeapons v2.1 patch integrated.
+
+                This demo starts off with 1 1/4 minutes of me
+                just standing there waiting for people to join
+                the game.  Go get some munchies while you wait;
+                it's boring.
+Playtime:       10 minutes, 53 seconds.
+Level:          CTF8.  The Strongbox (gotta love it!)
+...
+```
+
+The `demo1.zip` may have been initially released as `oh-1196-ctfa.zip`.
+
+The `demo3.zip` may have been initially released as `oh-1196-ctfc.zip`.
+
+This suggests `demo2.zip` may have been initially released as `oh-1196-ctfb.zip`.
+
+Evidence for this can be seen in this file listing:
+
+```text
+...
+	oh-1196-ctfa.txt.gz	1 KB	12/2/1996
+	oh-1196-ctfa.zip	1.57 MB	12/2/1996
+	oh-1196-ctfb.txt.gz	1 KB	12/2/1996
+	oh-1196-ctfb.zip	2.73 MB	12/2/1996
+	oh-1196-ctfc.txt.gz	1 KB	12/2/1996
+	oh-1196-ctfc.zip	718 KB	12/2/1996
+...
+
+-- [nctuccca.edu.tw/PC/games/QUAKE/demos/j-q/](https://web.archive.org/web/19970321200124/nctuccca.edu.tw/PC/games/QUAKE/demos/j-q/) (archived)
+
+
 ## v3.2
 
 Version 3.2 was announced on BluesNews on December 3rd:
@@ -1327,6 +1419,30 @@ Email    : zoid@threewave.com
 -- server.txt
 
 
+## CTF Map Secrets
+
+A demo showing the location of secrets in CTF maps was released as `secrets.zip`.
+
+Mention of the map secrets released via demos on BluesNews on December 23rd:
+
+> Custom CTF Secrets Revealed\
+> Threewave has been updated with demos of all the secrets on all the custom Threewave CTF levels. Thanks to Peter Ordal (a.k.a. Sonic) for the word.
+
+-- [https://www.bluesnews.com/archives/dec96-3.html](https://www.bluesnews.com/archives/dec96-3.html)
+
+Contents of `secrets.zip`:
+
+```text
+-rw-rw-r--  0 0      0       81673 20 Dec  1996 1SECRET.DEM
+-rw-rw-r--  0 0      0       71381 20 Dec  1996 3SECRET.DEM
+-rw-rw-r--  0 0      0      217908 20 Dec  1996 4SECRET.DEM
+-rw-rw-r--  0 0      0       95132 20 Dec  1996 5SECRET.DEM
+-rw-rw-r--  0 0      0       40941 20 Dec  1996 6SECRET.DEM
+-rw-rw-r--  0 0      0      194426 20 Dec  1996 7SECRET.DEM
+-rw-rw-r--  0 0      0      105159 20 Dec  1996 8SECRET.DEM
+```
+
+
 ## v3.5 and QWCTF 1.0
 
 There was mention of CTF support in QuakeWorld on BluesNews on December 5th 1996:
@@ -1346,13 +1462,6 @@ Another mention of the QW version of CTF on BluesNews on December 15th:
 > It's nice to know that Threewave CTF will be ready for the QuakeWorld release. BTW, Zoid is also the one who did all the 1.01 to 1.06 bug fixes in the Quake C for QuakeWorld.
 
 -- [https://www.bluesnews.com/archives/dec96-2.html](https://www.bluesnews.com/archives/dec96-2.html)
-
-Mention of the map secrets released via demos on BluesNews on December 23rd:
-
-> Custom CTF Secrets Revealed\
-> Threewave has been updated with demos of all the secrets on all the custom Threewave CTF levels. Thanks to Peter Ordal (a.k.a. Sonic) for the word.
-
--- [https://www.bluesnews.com/archives/dec96-3.html](https://www.bluesnews.com/archives/dec96-3.html)
 
 The 3.5 release and CTF of QW 1.0 were announced on BluesNews on December 27:
 
