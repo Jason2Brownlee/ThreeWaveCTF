@@ -193,21 +193,21 @@ Zoid sent an email to BluesNews that was published on October 02 1996.
 > Capture the Flag\
 > I got an email from Dave Kirsch who wanted to pass along some info about his server running his capture the flag mod (I'm just passing along the entire thing, I haven't had a chance to check it out from the wilds of the south).
 >
-	> So, I was up this morning at six AM (don't ask) and I ran QSpy. I took a look at about 300 servers. To my surprise, almost all of them were empty, *except* mine and a friend of mine who runs my patches. They were both half full.
-	>
-	> What is this I thought?
-	>
-	> Capture the Flag.
-	>
-	> If you've never played this, you don't know what you're missing. My players whine and moan that they can't play regular deathmatch anymore, because it seems pointless. They say there's nothing greater than the adrenalin you get when you grab the enemy flag by penetrating their base and you're high-tailing it out of there as fast as you can with two or three guys chasing you as you try to get back to your base in order to successfully capture. If you're lucky (and hopefully have some teammates to cover you), you'll get back to base and score! But wait, you got back, and your flag isn't there, the other team has it! One of your teammates is going to have the frag the enemy player with the flag and return it so you can score.
-	>
-	> Regular team play is crap. It essentially comes down to "don't shoot the guys the same color as you." It also has no real location based fighting--its just random roaming.
-	>
-	> My server (and my friends) are packed pratically 24hrs a day. I can't even get on my own server most of the time! :)
-	>
-	> Check out my server home page at http://quake.threewave.com/. I'm hoping you can mention it in your news updates. I'll be releasing the source to the Capture the Flag patch in the next few days.
-	>
-	> My server is at quake.threewave.com (204.191.124.66) and my friend Bjorn's server is at quake.mindlink.net (204.174.17.22).
+>> So, I was up this morning at six AM (don't ask) and I ran QSpy. I took a look at about 300 servers. To my surprise, almost all of them were empty, *except* mine and a friend of mine who runs my patches. They were both half full.
+>>
+>> What is this I thought?
+>>
+>> Capture the Flag.
+>>
+>> If you've never played this, you don't know what you're missing. My players whine and moan that they can't play regular deathmatch anymore, because it seems pointless. They say there's nothing greater than the adrenalin you get when you grab the enemy flag by penetrating their base and you're high-tailing it out of there as fast as you can with two or three guys chasing you as you try to get back to your base in order to successfully capture. If you're lucky (and hopefully have some teammates to cover you), you'll get back to base and score! But wait, you got back, and your flag isn't there, the other team has it! One of your teammates is going to have the frag the enemy player with the flag and return it so you can score.
+>>
+>> Regular team play is crap. It essentially comes down to "don't shoot the guys the same color as you." It also has no real location based fighting--its just random roaming.
+>>
+>> My server (and my friends) are packed pratically 24hrs a day. I can't even get on my own server most of the time! :)
+>>
+>> Check out my server home page at http://quake.threewave.com/. I'm hoping you can mention it in your news updates. I'll be releasing the source to the Capture the Flag patch in the next few days.
+>>
+>> My server is at quake.threewave.com (204.191.124.66) and my friend Bjorn's server is at quake.mindlink.net (204.174.17.22).
 
 -- [https://www.bluesnews.com/archives/sept96-5.html](https://www.bluesnews.com/archives/sept96-5.html)
 
