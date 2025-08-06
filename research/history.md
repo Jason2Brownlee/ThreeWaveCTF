@@ -2,6 +2,10 @@
 
 Reconstructed history of ThreeWaveCTF by Dave Kirsch aka "Zoid".
 
+Developed to ensure that the [ThreeWave CTF Archive](https://github.com/Jason2Brownlee/ThreeWaveCTF) is accurate and complete.
+
+If you have any additional information, missing releases, or private betas that you're happy to contribute to the archive/history, please reach out: jason.brownlee05@gmail.com
+
 ## USENET Announcement September 1996
 
 Zoid shared a comment about working on server-side Quake mod/s in a Linux Quake related discussion on September 3rd 1996:
@@ -1177,14 +1181,549 @@ This was also mentioned on QuakeHole as a "release":
 
 ## v3.2
 
+Version 3.2 was announced on BluesNews on December 3rd:
+
+> CTF 3.2 Released, Threewave Moves\
+> Big doings over at Threewave, home of Capture the Flag. First, they've moved to a new home (please update your bookmarks), as a branch off of QuakeX (all part of the PlanetQuake Empire). The QuakeX thing is a natural, since Whaleboy has been doing a lot of work for the CTF projects, and he not only is providing the space for Threewave, he did a beautiful redesign of the site. Second, CTF 3.2 has been released, which is required for servers only. The focus of version 3.2 in the words of Dave 'Zoid' Kirsch is "Expert CTF," with an added emphasis on strategy and bonuses for teamwork.
+>
+>> * Players now start with 50 green armor when spawned. This will let you survive at least one direct rocket hit. This is to make spawners have a chance at life and make defense more important.
+>> * Weapons are *not* carried between levels. Now I know a lot of people are going to hate this, but it has to be done to make the team start on each level fair. Right now, if one team is kicking the other teams but, chances are on level change the leading team will be all stocked with ammo and weapons but the losing team will not be. This evens it out so every level, people start the same.
+>
+> Expert CTF mods.
+>
+>> * CTF will now award as assist on a capture. To get an assist frag the guy carrying your flag and return it. If your team captures in a short period of time, you will get an assist.
+>> * Flag defense is now radius based (but not a large radius). It is better to kill a guy _before_ he gets your flag. There is no bonus if he gets it and then you immediately frag him.
+>> * You also get a bonus for defending your flag carrier. If you blow away a guy who has harmed your carrier, you get an extra frag for it. Defend your flag carrier!
+
+-- [https://www.bluesnews.com/archives/nov96-5.html](https://www.bluesnews.com/archives/nov96-5.html)
+
+Links:
+
+* http://www.planetquake.com/quakex/threewave/
+* https://www.bluesnews.com/files/3wave32.zip
+
+The release was also announced on Redwood's:
+
+> Saw on The Void that Capture the Flag 3.2 (server source only update) is available from this site. Read what's new. Threewave also has moved to http://www.planetquake.com/quakex/threewave/ and has a new look.
+
+-- [http://redwood.gatsbyhouse.com/quake/1296.html](https://web.archive.org/web/19970327200909/http://redwood.gatsbyhouse.com/quake/1296.html) (archived)
+
+Links:
+
+* http://redwood.gatsbyhouse.com/quake/files/ctf/3wave32.zip
+* http://redwood.gatsbyhouse.com/quake/files/ctf/ctf32chg.txt
+* http://www.planetquake.com/quakex/threewave/
+
+Some historical locations for the release include:
+
+* ftp://ftp.cdrom.com/pub/quake/planetquake/threewave/ctf/server/3wave32.zip
+* http://bluesnews.com/files/3wave32.zip
+* http://ftp.sunet.se/planetquake/threewave/ctf/server/3wave32.zip
+* http://quakemecca.simplenet.com/files/downloads/3wave32.zip
+* http://quakemecca.simplenet.com/files/downloads/files/downloads/3wave32.zip
+* http://reality.sgi.com/rae/quake/idfiles/3wave32.zip
+* http://reality.sgi.com/rae_aw/quake/idfiles/3wave32.zip
+* http://redwood.gatsbyhouse.com/quake/files/ctf/3wave32.zip
+* http://redwood.stomped.com/files/ctf/3wave32.zip
+* http://www.bluesnews.com/files/3wave32.zip
+* http://www.bluesnews.com/files/files/3wave32.zip
+* http://www.cdrom.com/pub/idgames2/newstuff/3wave32.zip
+* http://www.frag.com/qchq/zips/3wave32.zip
+* http://www.gore.org/files/server/3wave32.zip
+* http://www.planetquake.com/quakex/threewave/files/3wave32.zip
+* http://www.time2quake.com/filez/threewave/ctf/server/3wave32.zip
+* https://www.quaddicted.com/files/idgames2/planetquake/threewave/ctf/server/3wave32.zip
+* https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/threewave/ctf/server/3wave32.zip
+
+And the CD:
+
+* [Cream of the Crop 24](https://archive.org/details/various_cd-rom_iso_collection_2016_07)
+
+The contents of the archive:
+
+```text
+-rw-rw-r--  0 0      0        1765  4 Oct  1996 capture.txt
+-rw-rw-r--  0 0      0       31969  3 Dec  1996 server.txt
+-rw-rw-r--  0 0      0         172  3 Dec  1996 autoexec.cfg
+-rw-rw-r--  0 0      0        2276  3 Dec  1996 config.cfg
+-rw-rw-r--  0 0      0      479048  3 Dec  1996 progs.dat
+-rw-rw-r--  0 0      0       30836 17 Sep  1996 maps/e1m1.ent
+-rw-rw-r--  0 0      0       44058 21 Sep  1996 maps/e1m2.ent
+-rw-rw-r--  0 0      0       48571 28 Sep  1996 maps/e1m3.ent
+-rw-rw-r--  0 0      0       46337 25 Sep  1996 maps/e1m4.ent
+-rw-rw-r--  0 0      0       44142 23 Sep  1996 maps/e1m5.ent
+-rw-rw-r--  0 0      0       38838 23 Sep  1996 maps/e1m6.ent
+-rw-rw-r--  0 0      0       36972 27 Oct  1996 maps/e1m8.ent
+-rw-rw-r--  0 0      0       35022 29 Sep  1996 maps/e2m1.ent
+-rw-rw-r--  0 0      0       28163  6 Oct  1996 maps/e2m2.ent
+-rw-rw-r--  0 0      0       39829 29 Sep  1996 maps/e2m3.ent
+-rw-rw-r--  0 0      0       45578  8 Oct  1996 maps/e2m5.ent
+-rw-rw-r--  0 0      0       42672  7 Oct  1996 maps/e4m3.ent
+-rw-rw-r--  0 0      0       48880 18 Oct  1996 maps/e4m5.ent
+-rw-rw-r--  0 0      0       43154 19 Oct  1996 maps/e4m6.ent
+-rw-rw-r--  0 0      0       46326 21 Oct  1996 maps/e4m4.ent
+-rw-rw-r--  0 0      0       11745 23 Oct  1996 maps/dm6.ent
+-rw-rw-r--  0 0      0       14410 31 Oct  1996 maps/dm3.ent
+-rw-rw-r--  0 0      0         108 18 Oct  1996 maps/dobsp.bat
+-rw-rw-r--  0 0      0          52  4 Oct  1996 maps/dobsp.sh
+-rw-rw-r--  0 0      0       14521  6 Oct  1996 src/ai.qc
+-rw-rw-r--  0 0      0        1697  6 Oct  1996 src/amtest.qc
+-rw-rw-r--  0 0      0       12411  6 Oct  1996 src/boss.qc
+-rw-rw-r--  0 0      0        2910  6 Oct  1996 src/buttons.qc
+-rw-rw-r--  0 0      0       56287 28 Nov  1996 src/client.qc
+-rw-rw-r--  0 0      0        7860 27 Nov  1996 src/combat.qc
+-rw-rw-r--  0 0      0       19523 28 Nov  1996 src/defs.qc
+-rw-rw-r--  0 0      0        9904  6 Oct  1996 src/demon.qc
+-rw-rw-r--  0 0      0        9542  6 Oct  1996 src/dog.qc
+-rw-rw-r--  0 0      0       17138  6 Oct  1996 src/doors.qc
+-rw-rw-r--  0 0      0       10727  6 Oct  1996 src/enforcer.qc
+-rw-rw-r--  0 0      0        7208  6 Oct  1996 src/fight.qc
+-rw-rw-r--  0 0      0        7747  6 Oct  1996 src/fish.qc
+-rw-rw-r--  0 0      0       18298  6 Oct  1996 src/hknight.qc
+-rw-rw-r--  0 0      0       34028 10 Nov  1996 src/items.qc
+-rw-rw-r--  0 0      0         222  6 Oct  1996 src/jctest.qc
+-rw-rw-r--  0 0      0        9684  6 Oct  1996 src/knight.qc
+-rw-rw-r--  0 0      0       15088  6 Oct  1996 src/misc.qc
+-rw-rw-r--  0 0      0        8996  6 Oct  1996 src/models.qc
+-rw-rw-r--  0 0      0        4798  6 Oct  1996 src/monsters.qc
+-rw-rw-r--  0 0      0       14657  6 Oct  1996 src/ogre.qc
+-rw-rw-r--  0 0      0        9537  6 Oct  1996 src/oldone.qc
+-rw-rw-r--  0 0      0        7693  6 Oct  1996 src/plats.qc
+-rw-rw-r--  0 0      0       18832 23 Nov  1996 src/player.qc
+-rw-rw-r--  0 0      0         614 23 Nov  1996 src/progs.src
+-rw-rw-r--  0 0      0        7880  6 Oct  1996 src/shalrath.qc
+-rw-rw-r--  0 0      0       12725  6 Oct  1996 src/shambler.qc
+-rw-rw-r--  0 0      0        9825  6 Oct  1996 src/soldier.qc
+-rw-rw-r--  0 0      0         450  6 Oct  1996 src/sprites.qc
+-rw-rw-r--  0 0      0        6062  6 Oct  1996 src/subs.qc
+-rw-rw-r--  0 0      0        7116  6 Oct  1996 src/tarbaby.qc
+-rw-rw-r--  0 0      0       14259 19 Oct  1996 src/triggers.qc
+-rw-rw-r--  0 0      0       31666  7 Nov  1996 src/weapons.qc
+-rw-rw-r--  0 0      0       10663  6 Oct  1996 src/wizard.qc
+-rw-rw-r--  0 0      0       11779 28 Nov  1996 src/world.qc
+-rw-rw-r--  0 0      0       20108  6 Oct  1996 src/zombie.qc
+-rw-rw-r--  0 0      0        2598  3 Dec  1996 src/progdefs.h
+-rw-rw-r--  0 0      0       38951  3 Dec  1996 src/teamplay.qc
+-rw-rw-r--  0 0      0        1560 19 Oct  1996 src/telefrag.qc
+-rw-rw-r--  0 0      0         655 31 Oct  1996 src/charset.txt
+-rw-rw-r--  0 0      0        8622  3 Dec  1996 src/files.dat
+-rw-rw-r--  0 0      0         650 29 Oct  1996 src/log.qc
+-rw-rw-r--  0 0      0        6654  4 Nov  1996 src/hook.qc
+-rw-rw-r--  0 0      0        5082 26 Nov  1996 src/admin.qc
+```
+
+The header from the readme:
+
+```text
+Title    : Threewave Capture
+Filename : 3wave32.zip
+Version  : 3.20
+Date     : 96-11-21
+Author   : Dave 'Zoid' Kirsch
+Email    : zoid@threewave.com
+...
+```
+
+-- server.txt
 
 
+## v3.5 and QWCTF 1.0
+
+There was mention of CTF support in QuakeWorld on BluesNews on December 5th 1996:
+
+> QuakeWorld CTF\
+> There's an update on Threewave about the conversion of Zoid's Capture the Flag patch to work in QuakeWorld. There are some differences in how Quake C works in QuakeWorld that lead to some changes in the patch. Unfortunately, QuakeWorld's client-side prediction causes the grappling hook to be unusable, so it will be axed. Also, the flag lags behind the carrier, so there probably going to make a new player model. CTF will be handled in QuakeWorld by one specialized CTF Master Server, and they're still working out what statistics it will track for each player. Zoid says "There's still some work to be done, but the bulk of the port is ready." The whole story is on Threewave, so go take a look.
+
+-- [https://www.bluesnews.com/archives/nov96-5.html](https://www.bluesnews.com/archives/nov96-5.html)
+
+Another mention of the QW version of CTF on BluesNews on December 15th:
+
+> Grappling with Losing the Grappling Hook\
+>A sentiment I've seen expressed in several reader emails is disappointment that Threewave Capture the Flag in QuakeWorld is not going to include the grappling hook. In a recent email Zoid dropped the hint that we might still have a grappling hook in our future in QuakeWorld CTF:
+>
+>> The QuakeWorld CTF conversion has gone through initial stages and is up and running. The flag lags behind the carrier pretty badly, so Whaleboy is working on a new player model that will fix this. Of course, the hook is gone. But it may appear in a future version of QuakeWorld. :)
+>
+> It's nice to know that Threewave CTF will be ready for the QuakeWorld release. BTW, Zoid is also the one who did all the 1.01 to 1.06 bug fixes in the Quake C for QuakeWorld.
+
+-- [https://www.bluesnews.com/archives/dec96-2.html](https://www.bluesnews.com/archives/dec96-2.html)
+
+Mention of the map secrets released via demos on BluesNews on December 23rd:
+
+> Custom CTF Secrets Revealed\
+> Threewave has been updated with demos of all the secrets on all the custom Threewave CTF levels. Thanks to Peter Ordal (a.k.a. Sonic) for the word.
+
+-- [https://www.bluesnews.com/archives/dec96-3.html](https://www.bluesnews.com/archives/dec96-3.html)
+
+The 3.5 release and CTF of QW 1.0 were announced on BluesNews on December 27:
+
+> New Threewave CTF Releases\
+> There are two new server releases on Threewave. For regular servers: Threewave CTF 3.5, and Threewave CTF 1.0 for QuakeWorld.
+
+-- [https://www.bluesnews.com/archives/dec96-3.html](https://www.bluesnews.com/archives/dec96-3.html)
+
+The CTF for QuakeWorld was mentioned on QuakeHole on December 27th:
+
+> Zoid "the sheep keeper" Kirsch released QW CTF tonight. go lookie.
+
+-- [http://www.quakehole.com/frames/oldnews.html](https://web.archive.org/web/19971210064427/http://www.quakehole.com/frames/oldnews.html) (archived)
+
+The dual release was announced on Shake 'N Quake on December 28th:
+
+> Threewave CTF Releases: There are two new server releases available on Threewave. For regular Net Quake servers: Threewave CTF 3.5, and Threewave CTF 1.0 for QuakeWorld CTF. As always they are here locally, for your viewing pleasure.
+
+-- [http://www.canvasnet.com:80/quake/old/december.htm](https://web.archive.org/web/20010524021106/http://www.canvasnet.com:80/quake/old/december.htm) (archived)
+
+With links:
+
+* http://www.planetquake.com/quakex/threewave/
+* ftp://ftp.canvasnet.com/quake/ctf/3wave35.zip
+* ftp://ftp.canvasnet.com/quake/ctf/3wqw10.zip
+
+Historical locations for `3wave35.zip`:
+
+* ftp://ftp.canvasnet.com/quake/ctf/3wave35.zip
+* ftp://ftp.cdrom.com/pub/idgames2/quakec/teamplay/ctf/3wave35.zip
+* ftp://ftp.cdrom.com/pub/quake/planetquake/threewave/ctf/server/3wave35.zip
+* ftp://ftp.freesoftware.com/pub/idgames2/planetquake/academy/ctf_files/3wave35.zip
+* ftp://ftp.freesoftware.com/pub/idgames2/planetquake/threewave/ctf/server/3wave35.zip
+* ftp://ftp.stomped.com/pub/redwood/ctf/3wave35.zip
+* ftp://ftp.vision.net.au/pub/quake_stuff/extras/3wave35.zip
+* http://bangg.org/files/3wave35.zip
+* http://bluesnews.com/files/3wave35.zip
+* http://ftp.sunet.se/planetquake/threewave/ctf/server/3wave35.zip
+* http://jord.sbc.edu/dragon/files/ctf/3wave35.zip
+* http://jord.sbc.edu/files/ctf/3wave35.zip
+* http://quakemecca.simplenet.com/files/downloads/3wave35.zip
+* http://quakemecca.simplenet.com/files/downloads/files/downloads/3wave35.zip
+* http://redwood.gatsbyhouse.com/files/ctf/3wave35.zip
+* http://www.bluesnews.com/files/3wave35.zip
+* http://www.bluesnews.com/files/files/3wave35.zip
+* http://www.cdrom.com/pub/idgames2/planetquake/academy/ctf_files/3wave35.zip
+* http://www.cdrom.com/pub/idgames2/planetquake/threewave/ctf/server/3wave35.zip
+* http://www.gore.org/files/server/3wave35.zip
+* http://www.iceinternet.com/wilsonk/3wave35.zip
+* http://www.imaxx.net/~dakota/capture/FILES/3wave35.zip
+* http://www.planetquake.com/quakex/threewave/3wave35.zip
+* http://www.time2quake.com/filez/threewave/ctf/server/3wave35.zip
+* https://www.quaddicted.com/files/idgames2/planetquake/threewave/ctf/server/3wave35.zip
+* https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/threewave/ctf/server/3wave35.zip
+
+Historical locations for `3wqw10.zip`:
+
+* ftp://ftp.canvasnet.com/quake/ctf/3wqw10.zip
+* ftp://ftp.vision.net.au/pub/quake_stuff/extras/3wqw10.zip
+* http://bluesnews.com/files/3wqw10.zip
+* http://ftp.sunet.se/planetquake/threewave/ctf/server/3wqw10.zip
+* http://www.bluesnews.com/files/3wqw10.zip
+* http://www.bluesnews.com/files/files/3wqw10.zip
+* http://www.time2quake.com/filez/threewave/ctf/server/3wqw10.zip
+* https://www.quaddicted.com/files/idgames2/planetquake/threewave/ctf/server/3wqw10.zip
+* https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/threewave/ctf/server/3wqw10.zip
 
 
+The contents of the `3wave35.zip` archive:
+
+```text
+-rw-rw-r--  0 0      0        1765  4 Oct  1996 capture.txt
+-rw-rw-r--  0 0      0       33447 27 Dec  1996 server.txt
+-rw-rw-r--  0 0      0         180 27 Dec  1996 autoexec.cfg
+-rw-rw-r--  0 0      0      271508 27 Dec  1996 progs.dat
+-rw-rw-r--  0 0      0       30836 17 Sep  1996 maps/e1m1.ent
+-rw-rw-r--  0 0      0       44058 21 Sep  1996 maps/e1m2.ent
+-rw-rw-r--  0 0      0       48571 28 Sep  1996 maps/e1m3.ent
+-rw-rw-r--  0 0      0       46337 25 Sep  1996 maps/e1m4.ent
+-rw-rw-r--  0 0      0       44142 23 Sep  1996 maps/e1m5.ent
+-rw-rw-r--  0 0      0       38838 23 Sep  1996 maps/e1m6.ent
+-rw-rw-r--  0 0      0       36972 27 Oct  1996 maps/e1m8.ent
+-rw-rw-r--  0 0      0       35022 29 Sep  1996 maps/e2m1.ent
+-rw-rw-r--  0 0      0       28163  6 Oct  1996 maps/e2m2.ent
+-rw-rw-r--  0 0      0       39829 29 Sep  1996 maps/e2m3.ent
+-rw-rw-r--  0 0      0       45578  8 Oct  1996 maps/e2m5.ent
+-rw-rw-r--  0 0      0       42672  7 Oct  1996 maps/e4m3.ent
+-rw-rw-r--  0 0      0       48880 18 Oct  1996 maps/e4m5.ent
+-rw-rw-r--  0 0      0       43154 19 Oct  1996 maps/e4m6.ent
+-rw-rw-r--  0 0      0       46326 21 Oct  1996 maps/e4m4.ent
+-rw-rw-r--  0 0      0       11745 23 Oct  1996 maps/dm6.ent
+-rw-rw-r--  0 0      0       14410 31 Oct  1996 maps/dm3.ent
+-rw-rw-r--  0 0      0         108 18 Oct  1996 maps/dobsp.bat
+-rw-rw-r--  0 0      0          52  4 Oct  1996 maps/dobsp.sh
+-rw-rw-r--  0 0      0         327 27 Dec  1996 src/progs.src
+-rw-rw-r--  0 0      0        7312 15 Dec  1996 src/combat.qc
+-rw-rw-r--  0 0      0        2910  6 Oct  1996 src/buttons.qc
+-rw-rw-r--  0 0      0       57019 27 Dec  1996 src/client.qc
+-rw-rw-r--  0 0      0       16302 15 Dec  1996 src/misc.qc
+-rw-rw-r--  0 0      0       19674 27 Dec  1996 src/defs.qc
+-rw-rw-r--  0 0      0        5601 15 Dec  1996 src/subs.qc
+-rw-rw-r--  0 0      0       17138  6 Oct  1996 src/doors.qc
+-rw-rw-r--  0 0      0       34028 20 Dec  1996 src/items.qc
+-rw-rw-r--  0 0      0        7693  6 Oct  1996 src/plats.qc
+-rw-rw-r--  0 0      0       18832 23 Nov  1996 src/player.qc
+-rw-rw-r--  0 0      0       14259 19 Oct  1996 src/triggers.qc
+-rw-rw-r--  0 0      0       31778 22 Dec  1996 src/weapons.qc
+-rw-rw-r--  0 0      0       11779 28 Nov  1996 src/world.qc
+-rw-rw-r--  0 0      0        2598 27 Dec  1996 src/progdefs.h
+-rw-rw-r--  0 0      0       39616 26 Dec  1996 src/teamplay.qc
+-rw-rw-r--  0 0      0        1560 19 Oct  1996 src/telefrag.qc
+-rw-rw-r--  0 0      0         655 31 Oct  1996 src/charset.txt
+-rw-rw-r--  0 0      0        6335 27 Dec  1996 src/files.dat
+-rw-rw-r--  0 0      0         650 29 Oct  1996 src/log.qc
+-rw-rw-r--  0 0      0        6654  4 Nov  1996 src/hook.qc
+-rw-rw-r--  0 0      0       12106 27 Dec  1996 src/admin.qc
+-rw-rw-r--  0 0      0        6093 27 Dec  1996 src/observ.qc
+-rw-rw-r--  0 0      0        2368 20 Dec  1996 src/server.qc
+```
+
+The header of the `3wave35.zip` readme:
+
+```text
+Title    : Threewave Capture
+Filename : 3wave35.zip
+Version  : 3.50
+Date     : 96-12-27
+Author   : Dave 'Zoid' Kirsch
+Email    : zoid@threewave.com
+...
+```
+
+-- server.txt
+
+Contents of the `3wqw10.zip` archive:
+
+```text
+-rw-rw-r--  0 0      0        1765  4 Oct  1996 capture.txt
+-rw-rw-r--  0 0      0       19452 27 Dec  1996 server.txt
+-rw-rw-r--  0 0      0         186 27 Dec  1996 server.cfg
+-rw-rw-r--  0 0      0      232672 27 Dec  1996 progs.dat
+-rw-rw-r--  0 0      0       30836 17 Sep  1996 maps/e1m1.ent
+-rw-rw-r--  0 0      0       44058 21 Sep  1996 maps/e1m2.ent
+-rw-rw-r--  0 0      0       48571 28 Sep  1996 maps/e1m3.ent
+-rw-rw-r--  0 0      0       46337 25 Sep  1996 maps/e1m4.ent
+-rw-rw-r--  0 0      0       44142 23 Sep  1996 maps/e1m5.ent
+-rw-rw-r--  0 0      0       38838 23 Sep  1996 maps/e1m6.ent
+-rw-rw-r--  0 0      0       36972 27 Oct  1996 maps/e1m8.ent
+-rw-rw-r--  0 0      0       35022 29 Sep  1996 maps/e2m1.ent
+-rw-rw-r--  0 0      0       28163  6 Oct  1996 maps/e2m2.ent
+-rw-rw-r--  0 0      0       39829 29 Sep  1996 maps/e2m3.ent
+-rw-rw-r--  0 0      0       45578  8 Oct  1996 maps/e2m5.ent
+-rw-rw-r--  0 0      0       42672  7 Oct  1996 maps/e4m3.ent
+-rw-rw-r--  0 0      0       48880 18 Oct  1996 maps/e4m5.ent
+-rw-rw-r--  0 0      0       43154 19 Oct  1996 maps/e4m6.ent
+-rw-rw-r--  0 0      0       46326 21 Oct  1996 maps/e4m4.ent
+-rw-rw-r--  0 0      0       11745 23 Oct  1996 maps/dm6.ent
+-rw-rw-r--  0 0      0       14410 31 Oct  1996 maps/dm3.ent
+-rw-rw-r--  0 0      0         108 18 Oct  1996 maps/dobsp.bat
+-rw-rw-r--  0 0      0          52  4 Oct  1996 maps/dobsp.sh
+-rw-rw-r--  0 0      0       19880 14 Dec  1996 src/defs.qc
+-rw-rw-r--  0 0      0        3051  4 Dec  1996 src/buttons.qc
+-rw-rw-r--  0 0      0         655  4 Dec  1996 src/charset.txt
+-rw-rw-r--  0 0      0       48461 19 Dec  1996 src/client.qc
+-rw-rw-r--  0 0      0        7742 14 Dec  1996 src/combat.qc
+-rw-rw-r--  0 0      0       30032 14 Dec  1996 src/weapons.qc
+-rw-rw-r--  0 0      0       17137 14 Dec  1996 src/doors.qc
+-rw-rw-r--  0 0      0        6152 27 Dec  1996 src/files.dat
+-rw-rw-r--  0 0      0       38094 27 Dec  1996 src/teamplay.qc
+-rw-rw-r--  0 0      0       33578  5 Dec  1996 src/items.qc
+-rw-rw-r--  0 0      0       17029  4 Dec  1996 src/misc.qc
+-rw-rw-r--  0 0      0        9515  4 Dec  1996 src/models.qc
+-rw-rw-r--  0 0      0        8057  4 Dec  1996 src/plats.qc
+-rw-rw-r--  0 0      0       17798  5 Dec  1996 src/player.qc
+-rw-rw-r--  0 0      0        2541 27 Dec  1996 src/progdefs.h
+-rw-rw-r--  0 0      0         200 14 Dec  1996 src/progs.src
+-rw-rw-r--  0 0      0        2464  4 Dec  1996 src/server.qc
+-rw-rw-r--  0 0      0         473  4 Dec  1996 src/sprites.qc
+-rw-rw-r--  0 0      0        5888  4 Dec  1996 src/subs.qc
+-rw-rw-r--  0 0      0       14106 14 Dec  1996 src/triggers.qc
+-rw-rw-r--  0 0      0        1560  4 Dec  1996 src/telefrag.qc
+-rw-rw-r--  0 0      0       11685 14 Dec  1996 src/world.qc
+-rw-rw-r--  0 0      0       29316  4 Dec  1996 skins/ctfr1.pcx
+-rw-rw-r--  0 0      0       29346  4 Dec  1996 skins/ctfr2.pcx
+-rw-rw-r--  0 0      0       29284  4 Dec  1996 skins/ctfb1.pcx
+-rw-rw-r--  0 0      0       29316  4 Dec  1996 skins/ctfb2.pcx
+-rw-rw-r--  0 0      0       30449  4 Dec  1996 skins/base.pcx
+```
+
+Header for the `3wqw10.zip` readme:
+
+```text
+Title    : Threewave QuakeWorld Capture
+Filename : 3wqw10.zip
+Version  : 1.00
+Date     : 96-12-27
+Author   : Dave 'Zoid' Kirsch
+Email    : zoid@threewave.com
+...
+```
+
+-- server.txt
+
+## id Software CTF Map
+
+Tim Willits released a map for CTF. Although not a 3wave release, we'll mention it here in the history.
+
+The release was announced on BluesNews on December 30th 1996:
+
+> Tim Willits' CTF Map\
+> Tim Willits just sent along his CTF map (772 KB) designed to work with Threewave CTF (here's the read me). This is a real treat, as Tim is a brilliant level designer. If you want to try it, he is running a server at id at:
+>
+> 192.246.40.121
+>
+> He also wants to be sure to note that this is not an official id product, just a map compatible with Zoid's modifications.
+>
+> While he was at it, Tim also set the record straight about his odd plan update:
+>
+> "I did not update my .plan, American did that crap about me liking WOOD"
+
+-- [https://www.bluesnews.com/archives/dec96-4.html](https://www.bluesnews.com/archives/dec96-4.html)
+
+Files:
+
+* https://www.bluesnews.com/files/idctf1.zip
+* https://www.bluesnews.com/files/idctf1.txt
+
+The release was announced on QuakeHole on December 30th:
+
+> Twillits CTF Map 11:35pm - 12/30/96\
+> Was so busy playin the map I didnt even know Tim had released it public a couple hours ago.. here is is. you need the CTF patch from Zoid's page as well. the server (non - qw) is 192.246.40.121 have fun. I cant wait for all the other QW server to get the hook back.. man this map is cool.
+
+-- [http://www.quakehole.com/frames/oldnews.html](https://web.archive.org/web/19971210064427/http://www.quakehole.com/frames/oldnews.html) (archived)
+
+Links:
+
+* http://www.quakehole.com/files/bsp/idctf1.zip
+
+The release was also mentioned on Redwood's:
+
+> ==December 30== 11:25p.m. CST\
+> Full update to come within hours...but for now, my favorite level designer at id (Tim Willits, if you didn't already know) has released a very cool Capture the Flag level. You can get idctf1.zip (772k)from here. I'm working on a small file section right now. All the files are there, I just need to make the page *grin*. BTW, I got the file from blue's but saw the link on that cool page, The Void because blue's page is screwed again like it was Saturday. According to Quakeholio, a non-QW server is running it at 192.246.40.121 (that's at id btw). It is up, I just checked it, but nobody's there. :(. Those shelves are very cool looking. Happiness is find one Shiner Bock in the fridge and a frosted mug in the freezer to pour it in.
+
+-- [http://redwood.gatsbyhouse.com/quake/1296.html](https://web.archive.org/web/19970327200909/http://redwood.gatsbyhouse.com/quake/1296.html) (archived)
+
+Links:
+
+* http://redwood.gatsbyhouse.com/quake/files/ctf/idctf1.zip
+
+It was announced on Shake N' Quake on December 31st:
+
+> 12-31-96, Sunday, 1:04 AM EST (F)\
+> Tim Willits CTF Map: One of the most talented map designers our cooked up a little something for all of us Quakers. He took the basic map of E1M5 made it a mirror image for blue and red bases and added some enhancements. This map is on of the best CTF maps out there and even has some leet new textures done by Whaleboy. A non-QW server is running over at id, at 192.246.40.121. Download the file right here (772KB).
+
+-- [http://www.canvasnet.com:80/quake/old/december.htm](https://web.archive.org/web/20010524021106/http://www.canvasnet.com:80/quake/old/december.htm) (archived)
+
+Links:
+
+* ftp://ftp.canvasnet.com/quake/levels/bsp/idctf1.zip
+
+Historical locations for the file include:
 
 
+* ftp://flinux.tu-graz.ac.at/pub/idsoftware2/idstuff/unsup/idctf1.zip
+* ftp://ftp.canvasnet.com/quake/levels/bsp/idctf1.zip
+* ftp://ftp.cdrom.com/pub/idgames2/idstuff/unsup/idctf1.zip
+* ftp://ftp.compulink.co.uk/pub/games/id/quake/idstuff/unsup/idctf1.zip
+* ftp://ftp.edu.sollentuna.se/pub/games/quake-stuff/idstuff/unsup/idctf1.zip
+* ftp://ftp.ee.techpta.ac.za/pub/games/idgames2/idstuff/unsup/idctf1.zip
+* ftp://ftp.epix.net/pub/idgames2/idstuff/unsup/idctf1.zip
+* ftp://ftp.evildead.com/files/outgoing/quake/tf/maps/zipped/IDCTF1.zip
+* ftp://ftp.gamers.org/pub/games/idgames2/idstuff/unsup/idctf1.zip
+* ftp://ftp.global.co.za/pub/quake/idstuff/unsup/idctf1.zip
+* ftp://ftp.hol.gr/games/idsoftware/quake/idstuff/unsup/idctf1.zip
+* ftp://ftp.idsoftware.com/idstuff/unsup/idctf1.zip
+* ftp://ftp.il.waw.pl/pub/quake/idstuff/unsup/idctf1.zip
+* ftp://ftp.intercity.dk/pub/mirrors/quake/idstuff/unsup/idctf1.zip
+* ftp://ftp.lame.org/mirrors/quake_stuff/idstuff/unsup/idctf1.zip
+* ftp://ftp.lib.siu.edu/pub/mirrors/idsoftware/idstuff/unsup/idctf1.zip
+* ftp://ftp.livewire.com.au/pub/idgames2/idstuff/unsup/idctf1.zip
+* ftp://ftp.pioneer.wnyric.org/pub/quake/idstuff/unsup/idctf1.zip
+* ftp://ftp.powerup.com.au/pub/games/quake/idstuff/unsup/idctf1.zip
+* ftp://ftp.ram.net.au/pub/quake/idgames2/idstuff/unsup/idctf1.zip
+* ftp://ftp.sci.fi/quake/idgames2/idstuff/unsup/idctf1.zip
+* ftp://ftp.stomped.com/pub/idgames2/idstuff/unsup/idctf1.zip
+* ftp://ftp.stomped.com/pub/redwood/ctf/idctf1.zip
+* ftp://ftp.sunet.se/pub/pc/games/idgames2/idstuff/unsup/idctf1.zip
+* ftp://ftp.telepac.pt/pub/idgames2/idstuff/unsup/idctf1.zip
+* ftp://ftp.torget.se/pub/games/quake/maps/idctf1.zip
+* ftp://ftp.tu-clausthal.de/pub/msdos/games/quake-mirror/idstuff/unsup/idctf1.zip
+* ftp://sunsite.doc.ic.ac.uk/packages/idgames2/idstuff/unsup/idctf1.zip
+* http://bluesnews.com/files/idctf1.zip
+* http://ftp.digex.net/pub/idsoftware/unsup/idctf1.zip
+* http://ftp.mancubus.net/pub/idgames2/idstuff/unsup/idctf1.zip
+* http://ftp.planetmirror.com/pub/idgames2/idstuff/unsup/idctf1.zip
+* http://ftp.sunet.se/idgames2/idstuff/unsup/idctf1.zip
+* http://ftp.sunet.se/planetquake/threewave/ctf/misc/idctf1.zip
+* http://ftp.sunet.se/pub/pc/games/idgames2/idstuff/unsup/idctf1.zip
+* http://ftp.telepac.pt/pub/idgames2/idstuff/unsup/idctf1.zip
+* http://gamers.org/pub/3dgamers/00archives/doom2/addons/idstuff/unsup/idctf1.zip
+* http://gamers.org/pub/games/idgames/idstuff/unsup/idctf1.zip
+* http://jord.sbc.edu/files/maps/idctf1.zip
+* http://mirrors.syringanetworks.net/idgames/idstuff/unsup/idctf1.zip
+* http://public.ftp.planetmirror.com/pub/idgames/idstuff/unsup/idctf1.zip
+* http://quakemecca.simplenet.com/files/maps/idctf1.zip
+* http://redwood.gatsbyhouse.com/files/ctf/idctf1.zip
+* http://redwood.gatsbyhouse.com/quake/files/ctf/idctf1.zip
+* http://redwood.stomped.com/files/ctf/idctf1.zip
+* http://src.doc.ic.ac.uk/packages/idgames/idstuff/unsup/idctf1.zip
+* http://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/quake/idstuff/unsup/idctf1.zip
+* http://sunsite.org.uk/packages/idgames2/idstuff/unsup/idctf1.zip
+* http://threewave.planetquake.com/idctf1.zip
+* http://wasatchfault.com/otherfiles/idctf1.zip
+* http://www.bluesnews.com/files/idctf1.zip
+* http://www.bluesnews.com/files/maps/idctf1.zip
+* http://www.cdrom.com/pub/idgames2/idstuff/unsup/idctf1.zip
+* http://www.cdrom.com/pub/idgames2/planetquake/academy/levels/idctf1.zip
+* http://www.gameaholic.com/deicide/download.cgi?/idstuff/unsup/idctf1.zip
+* http://www.gamers.org/pub/games/idgames/idstuff/idctf1.zip
+* http://www.gamers.org/pub/games/idgames2/idstuff/unsup/idctf1.zip
+* http://www.gamers.org/pub/idgames/idstuff/unsup/idctf1.zip
+* http://www.gamers.org/pub/idgames2/idstuff/unsup/idctf1.zip
+* http://www.gamers.org/pub/mirrors/ftp.idsoftware.com/unsup/idctf1.zip
+* http://www.imaxx.net/~dakota/capture/FILES/idctf1.zip
+* http://www.imaxx.net/~tabor/FILES/idctf1.zip
+* http://www.minos.co.uk/idctf1.zip
+* http://www.mirage.org/fanon/files/idctf1.zip
+* http://www.planetquake.com/koc/files/idctf1.zip
+* http://www.planetquake.com/quakex/threewave/idctf1.zip
+* http://www.quakehole.com/files/bsp/idctf1.zip
+* http://www.time2quake.com/filez/threewave/ctf/misc/idctf1.zip
+* http://www.wasatchfault.com/otherfiles/idctf1.zip
+* https://dukeworld.com/idgames/idstuff/unsup/idctf1.zip
+* https://ftp.fu-berlin.de/pc/games/idgames/idstuff/unsup/idctf1.zip
+* https://ftpmirror1.infania.net/pub/idgames/idstuff/unsup/idctf1.zip
+* https://www.quaddicted.com/files/idgames/idstuff/unsup/idctf1.zip
+* https://www.quaddicted.com/files/idgames2/idstuff/unsup/idctf1.zip
+* https://www.quaddicted.com/files/idgames2/planetquake/threewave/ctf/misc/idctf1.zip
+* https://www.quaddicted.com/files/maps/multiplayer/ctf/idctf1.zip
+* https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/threewave/ctf/misc/idctf1.zip
+* https://www.quaddicted.com/files/mirrors/quakerepo.net/ctf/maps/idctf1.zip
+* https://youfailit.net/pub/idgames/idstuff/unsup/idctf1.zip
 
+The contents of the archive:
 
+```text
+-rw-rw-r--  0 0      0     1773560 30 Dec  1996 idctf1.bsp
+-rw-rw-r--  0 0      0        1319 30 Dec  1996 idctf1.txt
+```
 
+The header of the readme:
 
+```text
+12-30-1996
+
+=================================================
+Title:          idctf1
+File:           idctf1.bsp
+Author:         Tim Willits
+Email Address:  twillits@idsoftware.com
+URL:            www.idsoftware.com
+Description:    This map is e1m5 converted into a capture the flag level.
+
+Additional
+Credits:        Dave Kirsch (Zoid) for the CTF progs.
+		Brian Cozzens (Whaleboy) for the additional GFX.
+		John Cash for helpful input and beta testing
+		Steve Tietze for helpful input and beta testing.
+		Christain Antkow (Disruptor) for helpful input and beta
+		testing.  And all the unnamed Rangers who helped test.
+```
+
+-- idctf1.txt
 
