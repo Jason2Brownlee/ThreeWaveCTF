@@ -1091,6 +1091,37 @@ Email    : zoid@threewave.com
 -- readme.txt
 
 
+## v3.1
+
+Version 3.1 was discussed on BluesNews on November 24th 1996:
+
+> CTF 3.1\
+> There's news about the upcoming Capture the Flag 3.1 on Threewave. Planned enhancements include the guy with the flag no longer glowing (instead he'll have a visible flag, and will trail "green particles"), and a scoring system that will reward players for "assists."
+
+-- [https://www.bluesnews.com/archives/nov96-4.html](https://www.bluesnews.com/archives/nov96-4.html)
+
+It was also mentioned on Redwood's:
+
+
+
+This was also mentioned on QuakeHole as a "release":
+
+> Qsoccer / Rotating brushes? 10:30pm - 11/24/96\
+> ...Oh.. CTF 3.1 is out with quite a few changes.. (Thanks Tyler C.)
+
+-- [http://www.quakehole.com/frames/oldnews.html](https://web.archive.org/web/19971210064427/http://www.quakehole.com/frames/oldnews.html) (archived)
+
+> ==November 24== 10:00p.m. CST\
+> Saw on blue's that Zoid is going to soon have a Capture the Flag 3.1 and some of the changes are talked about.
+
+-- [http://redwood.gatsbyhouse.com/quake/1196.html](https://web.archive.org/web/19970327200928/http://redwood.gatsbyhouse.com/quake/1196.html) (archived)
+
+
+
+
+
+
+
 
 
 
