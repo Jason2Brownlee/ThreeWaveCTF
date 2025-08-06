@@ -497,14 +497,14 @@ Version 2.5 of the mod was announced on BluesNews on November 6th 1996:
 > New Capture the Flag\
 > Version 2.5 of Dave "Zoid" Kirsch's crime-fighting Capture the Flag patch, has been released. Here is the new version (this is a server side patch, you don't need to download it to play), here's what's new, and here is what Zoid has to say:
 >
-	> This is not the release of the custom stuff I'm working on. It's the last release (hoping there's no bugs) of the source before then. The custom stuff should be ready sometime next week. This should hold you over until then. :)
-	>
-	> Server operators should upgrade to 2.5 as it fixes ways of cheating and serveral bugs.
-	>
-	> Players, bug your server operator to upgrade now!
-	>
-	> Thanks for the overwhelming support, thank yous, and general enthusiasm for this patch. It's going to be even more exciting when I get the custom CTF release done.
-
+>> This is not the release of the custom stuff I'm working on. It's the last release (hoping there's no bugs) of the source before then. The custom stuff should be ready sometime next week. This should hold you over until then. :)
+>>
+>> Server operators should upgrade to 2.5 as it fixes ways of cheating and serveral bugs.
+>>
+>> Players, bug your server operator to upgrade now!
+>>
+>> Thanks for the overwhelming support, thank yous, and general enthusiasm for this patch. It's going to be even more exciting when I get the custom CTF release done.
+>
 > For tips and info on how to play, check out these quality strategy guides: Starks CTF Tips/News and Vader's Capture Guide, and of course the home of CTF, Threewave.
 
 -- [https://www.bluesnews.com/archives/nov96-1.html](https://www.bluesnews.com/archives/nov96-1.html)
@@ -721,13 +721,13 @@ This version was announced on BluesNews on November 13th 1996:
 > CTF Beta Test\
 > Thank you to Dave "Zoid" Kirsch, originator of the now legendary Capture the Flag mod, sends word that the eagerly awaited update to CTF that includes the client-side patch will be issued for a beta test sceduled for this evening:
 >
-	> BETA TEST TONIGHT!
-	>
-	> I'll running a beta test of the new custom ThreeWave stuff tonight at 7PM EST on quake2.threewave.com. The new BETA pak will be available here for download. The beta test will be up for at least tonight and possibly tomorrow. The test includes the new skins, models, sounds and three new levels (McKinley Base, The Kiln and DySpHoRiA).
-	>
-	> The BETA pak file will be made available here shortly after 6PM EST. The server will be switched to using the new levels at 7PM. The download is expected to be a 1.5MB ZIP file.
-	>
-	> I'm looking forward to this people. Custom CTF will rock!
+>> BETA TEST TONIGHT!
+>>
+>> I'll running a beta test of the new custom ThreeWave stuff tonight at 7PM EST on quake2.threewave.com. The new BETA pak will be available here for download. The beta test will be up for at least tonight and possibly tomorrow. The test includes the new skins, models, sounds and three new levels (McKinley Base, The Kiln and DySpHoRiA).
+>>
+>> The BETA pak file will be made available here shortly after 6PM EST. The server will be switched to using the new levels at 7PM. The download is expected to be a 1.5MB ZIP file.
+>>
+>> I'm looking forward to this people. Custom CTF will rock!
 
 -- [https://www.bluesnews.com/archives/nov96-2.html](https://www.bluesnews.com/archives/nov96-2.html)
 
@@ -779,13 +779,13 @@ A second beta was announced on November 15th on BluesNews:
 > CTF Beta II\
 > The second beta for the Custom Capture the Flag patch is scheduled to be released on Sunday evening. The beta client patch will be available on CTF's home, Threewave, and here. What's new from the first beta (from Threewave):
 >
-	> The Beta2 will include...
-	>
-	> An Entirely New Level by DaBug.
-	> All New Bases and More Health in DySpHoRiA.
-	> No Hallway Struts, and Better Secrets in McKinley Base.
-	> No Rocket Launchers or Crossbeams in the Bases of the Kiln.
-	> As well as Various Fixes and Modifications, custom tailored to enhance your enjoyment.
+>> The Beta2 will include...
+>>
+>> An Entirely New Level by DaBug.
+>> All New Bases and More Health in DySpHoRiA.
+>> No Hallway Struts, and Better Secrets in McKinley Base.
+>> No Rocket Launchers or Crossbeams in the Bases of the Kiln.
+>> As well as Various Fixes and Modifications, custom tailored to enhance your enjoyment.
 
 -- [https://www.bluesnews.com/archives/nov96-2.html](https://www.bluesnews.com/archives/nov96-2.html)
 
