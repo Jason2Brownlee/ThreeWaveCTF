@@ -803,8 +803,8 @@ A private third beta was created, but the public version was scrapped according 
 > CTF 3 Release Info\
 > I got word from Blake Winton, new ThreeWave webmaster, that last night's private beta eliminates the need for another public beta (I kinda saw that coming...), so now we're set for a final release "in a few days..."
 >
-	> CTF3 Final Release!!!\
-	> After the supremely successful private beta testing last night, it has been decided that a public beta will not occur. But don't lynch us yet, because The FINAL release should be out in a few days. That's everything, including the client and server side patches, and all the source for the server. It's been a lot of hard work and a long time in coming, but it'll be worth it. Special thanks to the #QuakeEd beta testing team, without whose hard work this wouldn't be released nearly this soon.
+>> CTF3 Final Release!!!\
+>> After the supremely successful private beta testing last night, it has been decided that a public beta will not occur. But don't lynch us yet, because The FINAL release should be out in a few days. That's everything, including the client and server side patches, and all the source for the server. It's been a lot of hard work and a long time in coming, but it'll be worth it. Special thanks to the #QuakeEd beta testing team, without whose hard work this wouldn't be released nearly this soon.
 
 -- [https://www.bluesnews.com/archives/nov96-3.html](https://www.bluesnews.com/archives/nov96-3.html)
 
