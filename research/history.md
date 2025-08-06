@@ -387,6 +387,16 @@ It was announced on Redwood's on October 15th:
 
 -- [http://redwood.gatsbyhouse.com/quake/1096.html](https://web.archive.org/web/19970327200948/http://redwood.gatsbyhouse.com/quake/1096.html) (archived)
 
+It was announced on Shake N' Quake on October 15th:
+
+> Capture The Flag: Capture the Flag 2.3 is out. You can pick it up off of our FTP server. Its about 500k. This is probably the most popular deathmatch Quake C addon.
+
+-- [http://www.canvasnet.com:80/quake/old/october.htm](https://web.archive.org/web/20010524023657/http://www.canvasnet.com:80/quake/old/october.htm) (archived)
+
+Which links to:
+
+* ftp://ftp.canvasnet.com/quake/ctf/3wave23.zip
+
 Some historical locations for the file include:
 
 * [The Arsenal Files Collection #8 (Arsenal Computer) (1996)](https://archive.org/details/The_Arsenal_Files_Collection_8_Arsenal_Computer_1996)
@@ -567,6 +577,16 @@ With links:
 
 * http://quake.threewave.com/3wave25.zip
 
+It was announced on Shake 'N Quake on November 7th:
+
+> CTF 2.5: The long awaited Capture the Flag 2.5 is out. Pick it up here!! I haven't yet tried it out, but it is supposed to have the cheating fixed, and be even better than before. For more details, check out the Threewave site, or the Capture the Flag page.
+
+-- [http://www.canvasnet.com:80/quake/old/november.htm](https://web.archive.org/web/20010719130416/http://www.canvasnet.com:80/quake/old/november.htm) (archived)
+
+With links:
+
+* ftp://ftp.canvasnet.com/quake/ctf/3wave25.zip
+
 Some historical locations for this release include:
 
 * ftp://bluesnews.com/pub/quakec/teamplay/3wave25.zip
@@ -598,6 +618,19 @@ This updated was announced on QuakeHole on November 8th:
 > New version, (again) go get it.
 
 -- [http://www.quakehole.com/frames/oldnews.html](https://web.archive.org/web/19971210064427/http://www.quakehole.com/frames/oldnews.html) (archived)
+
+It was announced on Shake 'N Quake on November 8th:
+
+> CTF 2.51: Minor Bugfix from Capture the Flag 2.5. Apparently, flags could fall through the floors. Hmmn, that would make the game just a tad more difficult!
+>
+> To Download: From Canvasnet or From Threewave
+
+-- [http://www.canvasnet.com:80/quake/old/november.htm](https://web.archive.org/web/20010719130416/http://www.canvasnet.com:80/quake/old/november.htm) (archived)
+
+With links:
+
+* ftp://ftp.canvasnet.com/quake/ctf/3wave251.zip
+* http://quake.threewave.com/3wave251.zip
 
 Some historical locations for this release include:
 
@@ -761,6 +794,18 @@ With links:
 
 * http://redwood.gatsbyhouse.com/files/3wctfc3b.zip
 
+It was announced on Shake 'N Quake on November 14th:
+
+> CTF Client beta patch released: Sorry about this being a bit late, but since I was busy with school work I didn't get on this as quickly as possible. With that out of the way just like to report the CTF pack is now in beta form and is available for download. Get your client side copy here, at Blues News, or Threewave. This add-on has over time become the best and most popular out there so check it out. For a list of servers that are using this patch check out the Threewave Homepage.
+
+-- [http://www.canvasnet.com:80/quake/old/november.htm](https://web.archive.org/web/20010719130416/http://www.canvasnet.com:80/quake/old/november.htm) (archived)
+
+With links:
+
+* ftp://ftp.canvasnet.com/incoming/quake/3wctfc3b.zip
+* ftp://bluesnews.com/pub/quakec/teamplay/3wctfc3b.zip
+* http://quake.threewave.com/3wctfc3b.zip
+
 Some historical locations for this release include:
 
 * ftp://bluesnews.com/pub/quakec/teamplay/3wctfc3b.zip
@@ -828,6 +873,12 @@ The release was also announced on QuakeHole:
 > Heh, I goofed.. usually when I get email from QHQ about something just being released (reaper) I assume its an exclusive.. go download it from the Threewave homepage, and read the instructions if you dont understand.. they are on that page as well. Not much else going on that I'm aware of.. go check out Bane's page.. its pretty cool.. maybe I'll update my links page tonight? haha um.. yea.. maybe.. btw.. I changed my bios from MR to Award.. seems MR was having a problem with the DMA addressing with the Verite card.. I gained a good 5-6 fps on start map.. That problem with the dynamic lighting is much less apparent now as well.
 
 -- [http://www.quakehole.com/frames/oldnews.html](https://web.archive.org/web/19971210064427/http://www.quakehole.com/frames/oldnews.html) (archived)
+
+It was announced on Shake 'N Quake on November 21st:
+
+> CTF 3.0: The full release of Capture the Flag 3.0 has been released on Threewave. Check out the site for a list servers and mirror sites there to play on. The new maps that I played on the Beta3 were simply amazing. By far CTF is going to take on a whole new quality to it with the addition of these great maps. I'll get the file mirrored here soon enough too.
+
+-- [http://www.canvasnet.com:80/quake/old/november.htm](https://web.archive.org/web/20010719130416/http://www.canvasnet.com:80/quake/old/november.htm) (archived)
 
 Historical locations for the server:
 
@@ -1066,9 +1117,17 @@ Links:
 * http://redwood.gatsbyhouse.com/quake/files/3wctf301.zip
 * http://redwood.gatsbyhouse.com/quake/files/3wave30.zip
 
-Historical locations for the file include:
+The release was mentioned on Shake 'N Quake on December 8th 1996:
 
+> Late Threewave Info: This might not be very new to most of you know but Threewave the home of CTF has relocated to one of the biggest Quake places out there, Planet Quake. There new URL can be reached here, so change your bookmarks. Also the textures used to make the CTF pack are now available for download here. This will help all you aspiring CTF map makers out there to start editing away. Lastly if you don't have the Threewave CTF pack version 3.01 it is up for download right here.
 
+-- [http://www.canvasnet.com:80/quake/old/november.htm](https://web.archive.org/web/20010719130416/http://www.canvasnet.com:80/quake/old/november.htm) (archived)
+
+With links:
+
+* http://www.planetquake.com/quakex/threewave/
+* ftp://ftp.canvasnet.com/quake/ctf/ctf3wad.zip
+* ftp://ftp.canvasnet.com/quake/ctf/3wctf301.zip
 
 The contents of the archive is as follows:
 
@@ -1102,20 +1161,21 @@ Version 3.1 was discussed on BluesNews on November 24th 1996:
 
 It was also mentioned on Redwood's:
 
-
-
-This was also mentioned on QuakeHole as a "release":
-
 > Qsoccer / Rotating brushes? 10:30pm - 11/24/96\
 > ...Oh.. CTF 3.1 is out with quite a few changes.. (Thanks Tyler C.)
 
 -- [http://www.quakehole.com/frames/oldnews.html](https://web.archive.org/web/19971210064427/http://www.quakehole.com/frames/oldnews.html) (archived)
+
+
+This was also mentioned on QuakeHole as a "release":
 
 > ==November 24== 10:00p.m. CST\
 > Saw on blue's that Zoid is going to soon have a Capture the Flag 3.1 and some of the changes are talked about.
 
 -- [http://redwood.gatsbyhouse.com/quake/1196.html](https://web.archive.org/web/19970327200928/http://redwood.gatsbyhouse.com/quake/1196.html) (archived)
 
+
+## v3.2
 
 
 
