@@ -2956,5 +2956,64 @@ available as one package.
 
 ///Casey
 Sept '24/00
-``
+```
+
+## 2 Year Anniversary
+
+The two-year anniversary for 3wave CTF was October 02 1998.
+
+Blue from BluesNews posted a special message:
+
+> Out of the Blue  [4:57 AM EDT]\
+> Today marks the two-year anniversary of the day the first-ever story about Threewave Capture the Flag appeared anywhere, right here on Blue's News. It really seems like the "old days" when I recall it because I was on a trip to Virginia at the time, updating on a monochrome 486SX laptop using a flaky 14.4 AOL connection. I can still remember receiving the email from Zoid that had such a strong hook (reproduced in authentic Quake Rag text):
+>
+>> So, I was up this morning at six AM (don't ask) and I ran QSpy. I took a look at about 300 servers. To my surprise, almost all of them were empty, *except* mine and a friend of mine who runs my patches. They were both half full.
+>>
+>>What is this I thought?
+>>
+>>Capture the Flag.
+>
+> I think it's safe to say that he did not know what all this would all lead to at the time... I certainly didn't. Happy Anniversary Zoid.
+
+-- [https://www.bluesnews.com/archives/sept98-4.html](https://www.bluesnews.com/archives/sept98-4.html)
+
+Zoid shared a message on his .plan file:
+
+> Oct 2nd, 1998
+>
+> From Blue's News:
+>
+>> "Today marks the two-year anniversary of the day the first-ever story about
+Capture the Flag appeared anywhere, right here on Blue's News. I was on
+a trip to Virginia and it really seems like the "old days," because I was
+updating on a monochrome 486SX laptop, using a flaky 14.4 AOL connection,
+and I can still remember the email from Zoid that had such a strong hook."
+>
+> I remember writing that email to Blue. When I realized that CTF was going to
+catch on (the sheer number of people fighting to get into my two little
+twelve player servers was astounding), I wrote mail that would "sell"
+the product, so to speak. I knew I built something cool and I wanted tell
+everyone about it.
+>
+> I guess everyone heard about it by now. :)
+>
+> CTF has been an amazing project for me. From my humble beginings on a little
+NetQuake server running a little hack with floating keys to Quake2 CTF.
+It's been fun building it all, and it's going to be a challenge to continue
+the tradition of simple gameplay, but addictive design.
+>
+> Speaking of Q2CTF, I've begun some layout plans for an addon level pak.
+Players have been screaming for more "official" quality levels and I think
+it's past due time for some to be made. No time line yet, but I'm hoping
+to get a new pak together soon for all your CTF fanatics out there.
+>
+> Thanks to Blue for wishing me a Happy Anniversary and a special thanks to all
+the players out there that enjoyed ThreeWave Capture the Flag and made it
+what it is today. It was your feedback and desire to play a game that
+drove me to build it and continue to make it better.
+>
+> "Zoid captured the BLUE flag!" :)
+
+-- [http://finger.planetquake.com/qfplan.asp?userid=zoid&id=10045](https://web.archive.org/web/19990829042726/http://finger.planetquake.com/qfplan.asp?userid=zoid&id=10045) (archived)
+
 
