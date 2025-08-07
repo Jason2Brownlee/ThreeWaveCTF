@@ -24,7 +24,7 @@ Release Date | File | Description
 1996-10-14 | [3wave23.zip](bin/3wave23.zip) | Threewave Capture the Flag Server v2.30
 1996-11-06 | 3wave25.zip | Threewave Capture the Flag Server v2.50
 1996-11-07 | [3wave251.zip](bin/3wave251.zip) | Threewave Capture the Flag Server v2.51
-1996-11-13 | 3wctfc3b.zip | Threewave Capture the Flag Client v3.0 beta
+1996-11-13 | 3wctfc3b.zip | Threewave Capture the Flag Client v3.0 (beta)
 1996-11-21 | [3wave30.zip](bin/3wave30.zip) | Threewave Capture the Flag Server v3.00
 1996-11-21 | [3wctfc30.zip](bin/3wctfc30.zip) | Threewave Capture the Flag Client v3.00
 1996-11-22 | [3wctf301.zip](bin/3wctf301.zip) | Threewave Capture the Flag Client v3.01
@@ -35,7 +35,7 @@ Release Date | File | Description
 1997-04-15 | [3wave40.zip](bin/3wave40.zip) | Threewave Capture the Flag Server v4.00
 1997-04-15 | [3wctfc40.zip](bin/3wctfc40.zip) | Threewave Capture the Flag Client v4.00
 1997-05-02 | [3wave41.zip](bin/3wave41.zip) | Threewave Capture the Flag Server v4.10
-1997-06-03 | [3wctfc.zip](bin/3wctfc.zip) | Threewave Capture the Flag Client v4.00 Updated
+1997-06-03 | [3wctfc.zip](bin/3wctfc.zip) | Threewave Capture the Flag Client v4.00 (updated)
 1997-07-24 | [3wave42.zip](bin/3wave42.zip) | Threewave Capture the Flag Server v4.20
 1997-12-05 | [3wave421.zip](bin/3wave421.zip) | Threewave Capture the Flag Server v4.21 (minimal)
 1997-12-05 | [3wave42.zip](bin/3wave42_updated.zip) | Threewave Capture the Flag Server v4.21 (docs)
