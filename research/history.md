@@ -2435,6 +2435,49 @@ Email    : zoid@threewave.com
 
 ## v4.2
 
+This was intended to be the final release of the mod.
+
+Zoid shared a large message on the threewave homepage detailing the history of the mod and the impact it had.
+
+> The Final Capture\
+> Server operators can download 3wave42.zip now for the Threewave CTF 4.2 upgrade.
+>
+> The last year has been a strange and wonderful experience for me. I've always been a game player and a programmer. But, fate had me working at ISPs instead of writing games--my favorite passion. In August '96, Quake came out and changed my life. I played some DooM, but never really did any modifications to it. Quake was different--one of my passions was multiplayer gaming. I remember playing hours and hours on an old multiline BBS system with a game called Infinity Complex (some old timers might remember this). Infinity Complex was essentially a multiplayer, text version of Quake. Since then, I had developed a deep interest in multiplayer gaming and have worked on projects related to it in the ISP field, but nothing substancial.
+>
+> When Quake came out, I could do real time, high action first person graphical gameplay over the Internet! The high speed action game of the future had arrived. I wanted to play and keep playing it. But something was missing.
+>
+> The problem, as I saw it, was either you were good and at the top of the score list, or you sucked and where at the bottom. Middle didn't count, it was the first place position that did. Due to differences in ping, skill level and other factors, it soon became boring. I had ISDN, so I tended to slaughter the modem players again and again.
+>
+> My first experiments were with simple teamplay. Assigning players to teams and deathmatching. But it wasn't successful--there was no coordination and it broke down into 'don't shoot guys same color as you.' There had to be something better. That something was giving a goal for the team.
+>
+> In two evenings, I sat down and wrote the prototype of CTF. E1M4, The Grisly Grotto was the first level I modified for CTF. I threw it up on my server and explained it to the players there. First it was just confusion, then things started getting organized. There were defenders, offensive units, rovers (middle men) and other organized teamplay units. After that first night, I came back a couple of days later and found the server full. People couldn't get enough of it (and the same level had been running for three days!). In fact, I thought people were going to get bored of the same level over and over and I tried to reset back to deathmatch for a change. All the players screamed at me to put CTF back. It was then I knew I was on to something.
+>
+> For history's record, the runes and the grapple were already on my server before CTF was. I installed the grapple shortly after I first saw it. It was an incredible weapon and tool and changed the game--offering unbelievable mobility. The Runes were something I invented with a friend as a variation on deathmatch. I saw them in the single player game and wanted them as part of the multiplayer game experience. Their powers grew out of their names (black for strength, hell for haste, etc).
+>
+> Soon I had modified E1M1: The Slipgate Complex for CTF as well. Even today it's one of my favorite maps for four on four to six on six. The bases, though quite different in design, are actually pretty balanced. I just played it again a few nights ago and it as fun as I remembered.
+>
+> After modifying more maps, CTF started getting more popular. I had up to three Quake servers running it in the hey day. Blue posted about it on blue's news and suddenly I saw other CTF servers appearing. My mailbox exploded with interest.
+>
+> I released 2.0 which added some bug fixes and support for many more maps (modified id maps, that is). 2.0 was still with the keys as flags, the vore 'ball' for the grapple with the spikes. There are people who play CTF today that have never seen the medieval keys floating in the bases. Sorry, getting nostalgic.
+>
+> After 2.0, I was spending time on #quakeed on IRC. There was talk of a custom version--CTF with new maps, graphics, etc. A partial TC, so to speak. I gathered some map volunteers, artists and other contributors and worked for almost two months coordinating the project. There were a few public betas (my servers got overloaded with the first beta that had three maps) and eventually the package got finally put together.
+>
+> On November 21th, 1996, ThreeWave CTF 3.0 was released. It contained new models, sound effects, skins, levels, textures, etc. It was the first level expansion pack released for Quake and quickly became a must-have download. The four megabyte map addon was download over 5,000 times in the first day--the response was overwhelming.
+>
+> With the release of Threewave CTF 3.0 and its success, I ceased working in the ISP industry to pursue a career in game development. I was involved with a few projects, but not much worked out. I continued working on CTF, releasing new versions and fixes. In Feburary, I began work on CTF4 and released it on April 4th, 1997.
+>
+> I had always been a big fan of Unix and the Linux community in particular. John Carmack at id software recognized my interest in this and appointed me in charge of the Unix/Linux ports of Quake. I produced a Linux client and servers for various operating systems.
+>
+> As for the future of CTF, I will no longer be updating CTF for Quake. 4.2 will be my last release for Quake and QuakeWorld. I have begun a contract with id software to work on the software development of Quake2 as well as integrating a CTF teamplay mode into Quake2 as well. As far as I am concerned, CTF for Quake is done and has no more evolution. Some people are working on expansion packs, derivitives (ThunderWalker CTF, the CTF Expansion Project, etc.) and other addons. To them I give my blessing. It is exciting to me to see where people are talking my product and modifying it.
+>
+> I am handing over the maintenance of Threewave CTF for Quake to the Xenocide Flag Academy and to Dakota in particular. The work and support they have given CTF is phenomenal and much appreciated by me. There won't be any new versions of Threewave CTF, but they will keep track of additions and new versions other people are working on.
+>
+> It's been a long road, almost a year now. I'd like to thank everyone in the community that has contributed to CTF (the list is very long). It is time to move onto the next step and I hope everyone will be playing Quake2 and the CTF I will be building into it.  For Updates, head over to: Xenocide Flag Academy
+>
+> /// Zoid.
+
+-- [http://threewave.planetquake.com/](https://web.archive.org/web/19971224200252/http://threewave.planetquake.com/) (archived)
+
 Development of the release was announced on BluesNews on June 5th 1997:
 
 > Zoid on QuakeWorld and CTF 4.2\
@@ -3015,5 +3058,17 @@ drove me to build it and continue to make it better.
 > "Zoid captured the BLUE flag!" :)
 
 -- [http://finger.planetquake.com/qfplan.asp?userid=zoid&id=10045](https://web.archive.org/web/19990829042726/http://finger.planetquake.com/qfplan.asp?userid=zoid&id=10045) (archived)
+
+
+## References
+
+Threewave homepages:
+
+* [http://mindlink.net/zoid/](https://web.archive.org/web/19981203003619/http://mindlink.net/zoid/)
+* [http://quake.threewave.com/](https://web.archive.org/web/20020228174654/http://quake.threewave.com/)
+* [http://www.planetquake.com/quakex/threewave/](https://web.archive.org/web/19980113012310/http://www.planetquake.com/quakex/threewave/)
+* [http://threewave.planetquake.com/](https://web.archive.org/web/19971224200252/http://threewave.planetquake.com/)
+* [http://www.captured.com/threewave/](https://web.archive.org/web/19981202093403/http://www.captured.com/threewave/)
+* [http://threewave.com/](https://web.archive.org/web/19991013145630/http://threewave.com:80/)
 
 
