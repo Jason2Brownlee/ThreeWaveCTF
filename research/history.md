@@ -2613,7 +2613,7 @@ With links:
 
 The news suggests that a second version of `3wave42.zip` was released at this time with updated progs.
 
-A copy of this up
+A copy of this updated version appears on [(Czech) Gamestar 0 (1998-10) CD](https://archive.org/details/czgamestar0cd).
 
 This version was announced on BluesNews on December 5th 1997:
 
@@ -2724,7 +2724,7 @@ Dec '05/97
 -- readme.txt
 
 
-The contents of the updated `3wave42.zip`:
+The contents of the updated `3wave42.zip` with the new (Dec 05 1997) progs:
 
 ```text
 -rw-rw-r--  0 0      0       36639 24 Jul  1997 SERVER.TXT
