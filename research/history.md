@@ -2055,7 +2055,202 @@ Email    : zoid@threewave.com
 -- server.txt
 
 
+## v4.0
 
+A preparation announcement was made on BluesNews on April 15th 1997:
+
+> CTF 4.0 Release Party\
+> There is an eagerly-awaited announcement on Threewave that CTF 4.0 is going to be released tonight in an unprecedented online IRC party:
+>
+>> Come join the ThreeWave Gang for a online CTF4 Release party. The party starts at 6PM PST on the GamesNet IRC network. CTF4 will be released at the online gathering on channel #ThreeWave.
+
+-- [https://www.bluesnews.com/archives/april97-2.html](https://www.bluesnews.com/archives/april97-2.html)
+
+The release was announcement later that day on BluesNews:
+
+> CTF 4.0
+> Threewave Capture the Flag 4.0 has been released on (where else?) Threewave. Here's the Server (563 KB), and the Client (6.4 MB).
+
+-- [https://www.bluesnews.com/archives/april97-2.html](https://www.bluesnews.com/archives/april97-2.html)
+
+With links:
+
+* http://www.planetquake.com/quakex/threewave/
+* https://www.bluesnews.com/files/patches/threewave/3wave40.zip
+* https://www.bluesnews.com/files/patches/threewave/3wctfc40.zip
+
+The release was also announced on ShugaShack:
+
+> 7:18pm CTF 4.0 Released!\
+> Yes, it's out. go download it. I'll have it locally in a couple days when we move the pages. Check out ThreeWave to download the client or server. and YES, it has QuakeWorld 1.55 support.
+
+-- [http://www.shugashack.com/archives/a18_a12.htm](https://web.archive.org/web/19991021234340/http://www.shugashack.com/archives/a18_a12.htm) (archived)
+
+A huge announcement was made on Redwood's:
+
+> 8:00p.m. CDT\
+> As promised, Threewave's Capture The Flag 4.0 has been RELEASED!! You MUST have the 3.01 Client to play 4.0, as it is an add-on/upgrade. To play CTF4 on QuakeWorld servers you MUST have the QW 1.55 client. Here are the download locations:
+>
+> CTF 4 Servers up:
+>
+> 206.160.192.100 - Gatsbyhouse1-CTF 4\
+> 206.160.192.101 - Gatsbyhouse2-CTF 4
+
+> HTTP\
+> 3WCTF 4.0 Client (6564k -Gatsbyhouse)\
+> 3WCTF 4.0 Server (564k -Gatsbyhouse)\
+> FTP\
+> 3WCTF 4.0 Client (6564k -id sof)\
+> 3WCTF 4.0 Server (564k - id soft)\
+> 3WCTF 4.0 Client (6564k - Stomped)\
+> 3WCTF 4.0 Server (564k - Stomped)\
+> -More Download Sites\
+> -3.01 Client (required)
+
+-- [http://redwood.stomped.com/497.html](https://web.archive.org/web/20011031111944/http://redwood.stomped.com/497.html) (archived)
+
+With many links.
+
+Content of `3wave40.zip` archive:
+
+```text
+-rw-rw-r--  0 0      0       36218 14 Apr  1997 server.txt
+-rw-rw-r--  0 0      0        1765  4 Oct  1996 capture.txt
+-rw-rw-r--  0 0      0         157 13 Apr  1997 autoexec.cfg
+-rw-rw-r--  0 0      0         126 13 Apr  1997 server.cfg
+-rw-rw-r--  0 0      0      297480 14 Apr  1997 progs.dat
+-rw-rw-r--  0 0      0      252352 14 Apr  1997 qwprogs.dat
+-rw-rw-r--  0 0      0       30836 17 Sep  1996 maps/e1m1.ent
+-rw-rw-r--  0 0      0       46724 19 Feb  1997 maps/e1m2.ent
+-rw-rw-r--  0 0      0       52040 14 Apr  1997 maps/e1m3.ent
+-rw-rw-r--  0 0      0       46337 25 Sep  1996 maps/e1m4.ent
+-rw-rw-r--  0 0      0       45772 13 Apr  1997 maps/e1m5.ent
+-rw-rw-r--  0 0      0       38838 23 Sep  1996 maps/e1m6.ent
+-rw-rw-r--  0 0      0       39751 14 Apr  1997 maps/e1m8.ent
+-rw-rw-r--  0 0      0       37653 14 Apr  1997 maps/e2m1.ent
+-rw-rw-r--  0 0      0       30254 14 Apr  1997 maps/e2m2.ent
+-rw-rw-r--  0 0      0       42776 14 Apr  1997 maps/e2m3.ent
+-rw-rw-r--  0 0      0       45578  8 Oct  1996 maps/e2m5.ent
+-rw-rw-r--  0 0      0       42672  7 Oct  1996 maps/e4m3.ent
+-rw-rw-r--  0 0      0       48894 14 Apr  1997 maps/e4m5.ent
+-rw-rw-r--  0 0      0       43154 19 Oct  1996 maps/e4m6.ent
+-rw-rw-r--  0 0      0       46326 21 Oct  1996 maps/e4m4.ent
+-rw-rw-r--  0 0      0       12603 14 Apr  1997 maps/dm6.ent
+-rw-rw-r--  0 0      0       14410 31 Oct  1996 maps/dm3.ent
+-rw-rw-r--  0 0      0       37621 13 Apr  1997 maps/e4m8.ent
+-rw-rw-r--  0 0      0       34684 13 Apr  1997 maps/e3m7.ent
+-rw-rw-r--  0 0      0       60417 28 Feb  1997 maps/e3m4.ent
+-rw-rw-r--  0 0      0       55426 13 Apr  1997 maps/e2m7.ent
+-rw-rw-r--  0 0      0       11376 14 Apr  1997 maps/dm5.ent
+-rw-rw-r--  0 0      0       42640 25 Mar  1997 maps/e4m7.ent
+-rw-rw-r--  0 0      0       68779 13 Apr  1997 maps/e3m6.ent
+-rw-rw-r--  0 0      0       42952 13 Apr  1997 maps/e3m1.ent
+-rw-rw-r--  0 0      0       10676 14 Apr  1997 maps/dm1.ent
+-rw-rw-r--  0 0      0       20293 14 Apr  1997 maps/dm2.ent
+-rw-rw-r--  0 0      0        9946 14 Apr  1997 maps/dm4.ent
+-rw-rw-r--  0 0      0       15108  2 Feb  1997 maps/e1m7.ent
+-rw-rw-r--  0 0      0       49057 14 Apr  1997 maps/e2m4.ent
+-rw-rw-r--  0 0      0       49932 13 Apr  1997 maps/e2m6.ent
+-rw-rw-r--  0 0      0       31582 13 Apr  1997 maps/e3m2.ent
+-rw-rw-r--  0 0      0       35570 13 Apr  1997 maps/e3m3.ent
+-rw-rw-r--  0 0      0       50483 25 Mar  1997 maps/e3m5.ent
+-rw-rw-r--  0 0      0       43124 13 Apr  1997 maps/e4m1.ent
+-rw-rw-r--  0 0      0       28258 25 Mar  1997 maps/e4m2.ent
+-rw-rw-r--  0 0      0         108 18 Oct  1996 maps/dobsp.bat
+-rw-rw-r--  0 0      0          52  4 Oct  1996 maps/dobsp.sh
+-rw-rw-r--  0 0      0         409  2 Apr  1997 src/progs.src
+-rw-rw-r--  0 0      0        7224  2 Apr  1997 src/combat.qc
+-rw-rw-r--  0 0      0        2910  6 Oct  1996 src/buttons.qc
+-rw-rw-r--  0 0      0       36589 14 Apr  1997 src/teamplay.qc
+-rw-rw-r--  0 0      0       16416  2 Apr  1997 src/misc.qc
+-rw-rw-r--  0 0      0       20321  7 Apr  1997 src/defs.qc
+-rw-rw-r--  0 0      0        5601 15 Dec  1996 src/subs.qc
+-rw-rw-r--  0 0      0       17138  6 Oct  1996 src/doors.qc
+-rw-rw-r--  0 0      0       34770  9 Apr  1997 src/items.qc
+-rw-rw-r--  0 0      0        7737 14 Apr  1997 src/plats.qc
+-rw-rw-r--  0 0      0       18832 23 Nov  1996 src/player.qc
+-rw-rw-r--  0 0      0       14259 19 Oct  1996 src/triggers.qc
+-rw-rw-r--  0 0      0       11521 10 Apr  1997 src/world.qc
+-rw-rw-r--  0 0      0        2598 14 Apr  1997 src/progdefs.h
+-rw-rw-r--  0 0      0        1560 19 Oct  1996 src/telefrag.qc
+-rw-rw-r--  0 0      0         808 31 Mar  1997 src/charset.txt
+-rw-rw-r--  0 0      0        6426 14 Apr  1997 src/files.dat
+-rw-rw-r--  0 0      0         650 29 Oct  1996 src/log.qc
+-rw-rw-r--  0 0      0        6829 28 Mar  1997 src/hook.qc
+-rw-rw-r--  0 0      0        6308 26 Mar  1997 src/observ.qc
+-rw-rw-r--  0 0      0        2368 20 Dec  1996 src/server.qc
+-rw-rw-r--  0 0      0        4121  2 Apr  1997 src/ctfgame.qc
+-rw-rw-r--  0 0      0        1797  2 Apr  1997 src/ident.qc
+-rw-rw-r--  0 0      0       16934 10 Apr  1997 src/camera.qc
+-rw-rw-r--  0 0      0        5671 13 Apr  1997 src/status.qc
+-rw-rw-r--  0 0      0       33574 14 Apr  1997 src/weapons.qc
+-rw-rw-r--  0 0      0       52496 14 Apr  1997 src/client.qc
+-rw-rw-r--  0 0      0       15417 14 Apr  1997 src/admin.qc
+-rw-rw-r--  0 0      0        8204 14 Apr  1997 qwsrc/plats.qc
+-rw-rw-r--  0 0      0        5888  4 Dec  1996 qwsrc/subs.qc
+-rw-rw-r--  0 0      0       15316 21 Feb  1997 qwsrc/triggers.qc
+-rw-rw-r--  0 0      0        4065  9 Apr  1997 qwsrc/ctfgame.qc
+-rw-rw-r--  0 0      0        2541 14 Apr  1997 qwsrc/progdefs.h
+-rw-rw-r--  0 0      0       12077  9 Apr  1997 qwsrc/world.qc
+-rw-rw-r--  0 0      0       35890  7 Apr  1997 qwsrc/items.qc
+-rw-rw-r--  0 0      0       17217 26 Feb  1997 qwsrc/doors.qc
+-rw-rw-r--  0 0      0        1560  4 Dec  1996 qwsrc/telefrag.qc
+-rw-rw-r--  0 0      0        3051  4 Dec  1996 qwsrc/buttons.qc
+-rw-rw-r--  0 0      0         655  4 Dec  1996 qwsrc/charset.txt
+-rw-rw-r--  0 0      0        7658  7 Apr  1997 qwsrc/combat.qc
+-rw-rw-r--  0 0      0       21634  9 Apr  1997 qwsrc/defs.qc
+-rw-rw-r--  0 0      0        6385 14 Apr  1997 qwsrc/files.dat
+-rw-rw-r--  0 0      0       13284 21 Feb  1997 qwsrc/grapple.qc
+-rw-rw-r--  0 0      0        9515  4 Dec  1996 qwsrc/models.qc
+-rw-rw-r--  0 0      0       19879 21 Feb  1997 qwsrc/player.qc
+-rw-rw-r--  0 0      0        2464  4 Dec  1996 qwsrc/server.qc
+-rw-rw-r--  0 0      0         473  4 Dec  1996 qwsrc/sprites.qc
+-rw-rw-r--  0 0      0       36912 13 Apr  1997 qwsrc/teamplay.qc
+-rw-rw-r--  0 0      0        5495 13 Apr  1997 qwsrc/status.qc
+-rw-rw-r--  0 0      0       17189 13 Apr  1997 qwsrc/misc.qc
+-rw-rw-r--  0 0      0        1797  2 Apr  1997 qwsrc/IDENT.QC
+-rw-rw-r--  0 0      0         263 13 Apr  1997 qwsrc/progs.src
+-rw-rw-r--  0 0      0       35656 13 Apr  1997 qwsrc/weapons.qc
+-rw-rw-r--  0 0      0       45359 14 Apr  1997 qwsrc/client.qc
+```
+
+Header of readme:
+
+```text
+Title    : Threewave Capture
+Filename : 3wave40.zip
+Version  : 4.00
+Date     : 97-04-12
+Author   : Dave 'Zoid' Kirsch
+Email    : zoid@threewave.com
+Info	 : This patch contains two versions of CTF4, for Regular Quake (1.06
+	       or later) and QuakeWorld 1.55 or later.  Note that you need qwsv
+           1.55 and qwcl 1.55 or later in order to play.
+...
+```
+
+--- server.txt
+
+Content of `3wctfc40.zip`:
+
+```text
+-rw-rw-r--  0 0      0    15233873 14 Apr  1997 pak1.pak
+-rw-rw-r--  0 0      0        4557 14 Apr  1997 readme.txt
+```
+
+Content of readme:
+
+```text
+Title    : Threewave Capture
+Filename : 3wctf40.zip
+Version  : 4.00
+Date     : 97-04-15
+Author   : Dave 'Zoid' Kirsch
+Email    : zoid@threewave.com
+...
+```
+
+-- readme.txt
 
 
 

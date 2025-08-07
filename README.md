@@ -32,7 +32,7 @@ Release Date | File | Description
 1996-12-27 | [3wave35.zip](bin/3wave35.zip) | Threewave Capture the Flag Server v3.50
 1996-12-27 | [3wqw10.zip](bin/3wqw10.zip) | Threewave QuakeWorld Capture the Flag Server v1.00
 1997-01-02 | [3wqw11.zip](bin/3wqw11.zip) | Threewave QuakeWorld Capture the Flag Server v1.10
-1997-04-12 | [3wave40.zip](bin/3wave40.zip) | Threewave Capture the Flag Server v4.00
+1997-04-15 | [3wave40.zip](bin/3wave40.zip) | Threewave Capture the Flag Server v4.00
 1997-04-15 | [3wctfc40.zip](bin/3wctfc40.zip) | Threewave Capture the Flag Client v4.00
 1997-05-02 | [3wave41.zip](bin/3wave41.zip) | Threewave Capture the Flag Server v4.10
 1997-06-03 | [3wctfc.zip](bin/3wctfc.zip) | Threewave Capture the Flag Client v4.00
