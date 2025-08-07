@@ -2598,6 +2598,23 @@ Info	 : This patch contains two versions of CTF4, for Regular Quake (1.06
 
 ## v4.21
 
+News for the release was posted on the then official home at `http://www.captured.com/threewave/`:
+
+
+> CTF4.21 Update\
+> Two serious bugs have appeared recently. One in the NetQuake version to do with server logging and one in the QuakeWorld version to do with the grapple. I'm releasing a 4.21 as a very minor patch to the 4.2 code that addresses these two problems. I had no plans to make another release, but these two bugs are serious enough to warrant it. Here is the 4.21 archive (it only contains the new progs, no docs). The 3wave42.zip archive contains full documentation.
+
+-- [http://www.captured.com/threewave/](https://web.archive.org/web/19981202093403/http://www.captured.com/threewave/) (archived)
+
+With links:
+
+* http://www.cdrom.com/pub/quake/planetquake/threewave/ctf/server/3wave421.zip
+* http://www.cdrom.com/pub/quake/planetquake/threewave/ctf/server/3wave42.zip
+
+The news suggests that a second version of `3wave42.zip` was released at this time with updated progs.
+
+A copy of this up
+
 This version was announced on BluesNews on December 5th 1997:
 
 > New CTF\
@@ -2707,6 +2724,112 @@ Dec '05/97
 -- readme.txt
 
 
+The contents of the updated `3wave42.zip`:
+
+```text
+-rw-rw-r--  0 0      0       36639 24 Jul  1997 SERVER.TXT
+-rw-rw-r--  0 0      0        1765  4 Oct  1996 CAPTURE.TXT
+-rw-rw-r--  0 0      0         162  5 Sep  1998 AUTOEXEC.CFG
+-rw-rw-r--  0 0      0         160  5 Sep  1998 SERVER.CFG
+-rw-rw-r--  0 0      0      287492  5 Dec  1997 PROGS.DAT
+-rw-rw-r--  0 0      0      262204  5 Dec  1997 QWPROGS.DAT
+drwxrwxr-x  0 0      0           0  5 Sep  1998 MAPS/
+drwxrwxr-x  0 0      0           0  5 Sep  1998 SRC/
+drwxrwxr-x  0 0      0           0  5 Sep  1998 QWSRC/
+-rw-rw-r--  0 0      0       30836 17 Sep  1996 MAPS/E1M1.ENT
+-rw-rw-r--  0 0      0       46724 19 Feb  1997 MAPS/E1M2.ENT
+-rw-rw-r--  0 0      0       52040 14 Apr  1997 MAPS/E1M3.ENT
+-rw-rw-r--  0 0      0       46337 25 Sep  1996 MAPS/E1M4.ENT
+-rw-rw-r--  0 0      0       45772 13 Apr  1997 MAPS/E1M5.ENT
+-rw-rw-r--  0 0      0       38838 23 Sep  1996 MAPS/E1M6.ENT
+-rw-rw-r--  0 0      0       39751 14 Apr  1997 MAPS/E1M8.ENT
+-rw-rw-r--  0 0      0       37653 14 Apr  1997 MAPS/E2M1.ENT
+-rw-rw-r--  0 0      0       30254 14 Apr  1997 MAPS/E2M2.ENT
+-rw-rw-r--  0 0      0       42776 14 Apr  1997 MAPS/E2M3.ENT
+-rw-rw-r--  0 0      0       45578  8 Oct  1996 MAPS/E2M5.ENT
+-rw-rw-r--  0 0      0       42672  7 Oct  1996 MAPS/E4M3.ENT
+-rw-rw-r--  0 0      0       48894 14 Apr  1997 MAPS/E4M5.ENT
+-rw-rw-r--  0 0      0       43154 19 Oct  1996 MAPS/E4M6.ENT
+-rw-rw-r--  0 0      0       46326 21 Oct  1996 MAPS/E4M4.ENT
+-rw-rw-r--  0 0      0       12603 14 Apr  1997 MAPS/DM6.ENT
+-rw-rw-r--  0 0      0       14410 31 Oct  1996 MAPS/DM3.ENT
+-rw-rw-r--  0 0      0       37621 13 Apr  1997 MAPS/E4M8.ENT
+-rw-rw-r--  0 0      0       34684 13 Apr  1997 MAPS/E3M7.ENT
+-rw-rw-r--  0 0      0       60417 28 Feb  1997 MAPS/E3M4.ENT
+-rw-rw-r--  0 0      0       55426 13 Apr  1997 MAPS/E2M7.ENT
+-rw-rw-r--  0 0      0       11376 14 Apr  1997 MAPS/DM5.ENT
+-rw-rw-r--  0 0      0       42640 25 Mar  1997 MAPS/E4M7.ENT
+-rw-rw-r--  0 0      0       68779 13 Apr  1997 MAPS/E3M6.ENT
+-rw-rw-r--  0 0      0       42952 13 Apr  1997 MAPS/E3M1.ENT
+-rw-rw-r--  0 0      0       10676 14 Apr  1997 MAPS/DM1.ENT
+-rw-rw-r--  0 0      0       20293 14 Apr  1997 MAPS/DM2.ENT
+-rw-rw-r--  0 0      0        9946 14 Apr  1997 MAPS/DM4.ENT
+-rw-rw-r--  0 0      0       15108  2 Feb  1997 MAPS/E1M7.ENT
+-rw-rw-r--  0 0      0       49057 14 Apr  1997 MAPS/E2M4.ENT
+-rw-rw-r--  0 0      0       49932 13 Apr  1997 MAPS/E2M6.ENT
+-rw-rw-r--  0 0      0       31582 13 Apr  1997 MAPS/E3M2.ENT
+-rw-rw-r--  0 0      0       35570 13 Apr  1997 MAPS/E3M3.ENT
+-rw-rw-r--  0 0      0       50483 25 Mar  1997 MAPS/E3M5.ENT
+-rw-rw-r--  0 0      0       43124 13 Apr  1997 MAPS/E4M1.ENT
+-rw-rw-r--  0 0      0       28258 25 Mar  1997 MAPS/E4M2.ENT
+-rw-rw-r--  0 0      0         108 18 Oct  1996 MAPS/DOBSP.BAT
+-rw-rw-r--  0 0      0          52  4 Oct  1996 MAPS/DOBSP.SH
+-rw-rw-r--  0 0      0       36824  5 May  1997 SRC/TEAMPLAY.QC
+-rw-rw-r--  0 0      0        2910  6 Oct  1996 SRC/BUTTONS.QC
+-rw-rw-r--  0 0      0       16416  2 Apr  1997 SRC/MISC.QC
+-rw-rw-r--  0 0      0        5601 15 Dec  1996 SRC/SUBS.QC
+-rw-rw-r--  0 0      0       17138  6 Oct  1996 SRC/DOORS.QC
+-rw-rw-r--  0 0      0       14259 19 Oct  1996 SRC/TRIGGERS.QC
+-rw-rw-r--  0 0      0       11521 10 Apr  1997 SRC/WORLD.QC
+-rw-rw-r--  0 0      0        2598  5 Dec  1997 SRC/PROGDEFS.H
+-rw-rw-r--  0 0      0        1560 19 Oct  1996 SRC/TELEFRAG.QC
+-rw-rw-r--  0 0      0         808 31 Mar  1997 SRC/CHARSET.TXT
+-rw-rw-r--  0 0      0        6426  5 Dec  1997 SRC/FILES.DAT
+-rw-rw-r--  0 0      0         650 29 Oct  1997 SRC/LOG.QC
+-rw-rw-r--  0 0      0        6961 29 Apr  1997 SRC/HOOK.QC
+-rw-rw-r--  0 0      0        2368 20 Dec  1996 SRC/SERVER.QC
+-rw-rw-r--  0 0      0        4121  2 Apr  1997 SRC/CTFGAME.QC
+-rw-rw-r--  0 0      0         282 22 Apr  1997 SRC/NOTES.TXT
+-rw-rw-r--  0 0      0         399  1 May  1997 SRC/PROGS.SRC
+-rw-rw-r--  0 0      0        6162  1 May  1997 SRC/OBSERV.QC
+-rw-rw-r--  0 0      0       15192  1 May  1997 SRC/ADMIN.QC
+-rw-rw-r--  0 0      0       33876  2 May  1997 SRC/WEAPONS.QC
+-rw-rw-r--  0 0      0        1797  2 May  1997 SRC/IDENT.QC
+-rw-rw-r--  0 0      0       18832 30 May  1997 SRC/PLAYER.QC
+-rw-rw-r--  0 0      0        7732 21 Jun  1997 SRC/PLATS.QC
+-rw-rw-r--  0 0      0        7310 22 Jun  1997 SRC/COMBAT.QC
+-rw-rw-r--  0 0      0       20421 12 Jul  1997 SRC/DEFS.QC
+-rw-rw-r--  0 0      0       52315 12 Jul  1997 SRC/CLIENT.QC
+-rw-rw-r--  0 0      0       35115 12 Jul  1997 SRC/ITEMS.QC
+-rw-rw-r--  0 0      0        9194  5 Dec  1997 SRC/STATUS.QC
+-rw-rw-r--  0 0      0       35567  5 Dec  1997 QWSRC/WEAPONS.QC
+-rw-rw-r--  0 0      0        8199 21 Jun  1997 QWSRC/PLATS.QC
+-rw-rw-r--  0 0      0        5888  4 Dec  1996 QWSRC/SUBS.QC
+-rw-rw-r--  0 0      0       15261 14 Jul  1997 QWSRC/TRIGGERS.QC
+-rw-rw-r--  0 0      0        4065  9 Apr  1997 QWSRC/CTFGAME.QC
+-rw-rw-r--  0 0      0        2541  5 Dec  1997 QWSRC/PROGDEFS.H
+-rw-rw-r--  0 0      0       12075 15 Aug  1997 QWSRC/WORLD.QC
+-rw-rw-r--  0 0      0       45704 15 Aug  1997 QWSRC/CLIENT.QC
+-rw-rw-r--  0 0      0       17217 26 Feb  1997 QWSRC/DOORS.QC
+-rw-rw-r--  0 0      0        1560  4 Dec  1996 QWSRC/TELEFRAG.QC
+-rw-rw-r--  0 0      0        3051  4 Dec  1996 QWSRC/BUTTONS.QC
+-rw-rw-r--  0 0      0       39965 14 Aug  1997 QWSRC/TEAMPLAY.QC
+-rw-rw-r--  0 0      0         655  4 Dec  1996 QWSRC/CHARSET.TXT
+-rw-rw-r--  0 0      0        7749 22 Jun  1997 QWSRC/COMBAT.QC
+-rw-rw-r--  0 0      0       21762 15 Aug  1997 QWSRC/DEFS.QC
+-rw-rw-r--  0 0      0        6385  5 Dec  1997 QWSRC/FILES.DAT
+-rw-rw-r--  0 0      0       35210 15 Aug  1997 QWSRC/ITEMS.QC
+-rw-rw-r--  0 0      0        9515  4 Dec  1996 QWSRC/MODELS.QC
+-rw-rw-r--  0 0      0        2464  4 Dec  1996 QWSRC/SERVER.QC
+-rw-rw-r--  0 0      0         473  4 Dec  1996 QWSRC/SPRITES.QC
+-rw-rw-r--  0 0      0       13446 21 Jul  1997 QWSRC/GRAPPLE.QC
+-rw-rw-r--  0 0      0       17189 13 Apr  1997 QWSRC/MISC.QC
+-rw-rw-r--  0 0      0         276 14 Aug  1997 QWSRC/PROGS.SRC
+-rw-rw-r--  0 0      0        1797  2 May  1997 QWSRC/IDENT.QC
+-rw-rw-r--  0 0      0       19937 30 May  1997 QWSRC/PLAYER.QC
+-rw-rw-r--  0 0      0        9324  5 Dec  1997 QWSRC/STATUS.QC
+-rw-rw-r--  0 0      0        2683 14 Aug  1997 QWSRC/SPECTATE.QC
+```
 
 ## v4.21 + Docs
 
