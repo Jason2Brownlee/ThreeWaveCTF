@@ -2595,3 +2595,243 @@ Info	 : This patch contains two versions of CTF4, for Regular Quake (1.06
 ```
 
 -- server.txt
+
+## v4.21
+
+This version was announced on BluesNews on December 5th 1997:
+
+> New CTF\
+Though Zoid expected to release no more versions of CTF, a couple of bugs serious enough to warrant an update popped up, so a Threewave CTF 4.21 update (354 KB, sorry about the bad zip originally, thanks Origen =Aster= for the heads up) has been released (required for the server end only). Here's this scoop straight from Threewave (thanks Dakota):
+>
+>> Two serious bugs have appeared recently. One in the NetQuake version to do with server logging and one in the QuakeWorld version to do with the grapple. I'm releasing a 4.21 as a very minor patch to the 4.2 code that addresses these two problems. I had no plans to make another release, but these two bugs are serious enough to warrant it. Here is the 4.21 archive (it only contains the new progs, no docs). The 3wave42.zip archive contains full documentation.
+
+-- [https://www.bluesnews.com/archives/nov97-5.html](https://www.bluesnews.com/archives/nov97-5.html)
+
+With link:
+
+* https://www.bluesnews.com/files/patches/threewave/3wave421.zip
+
+It was also mentioned on ShugaShack:
+
+> CTF v4.21\
+> Zoid has released a minor patch for CTF server admins to use. A couple of bugs have finally popped up in the code that needed to be addressed. Zoid didnt plan on releasing anymore CTF versions, but well, here it is from homeboy himself:
+>
+>> Two serious bugs have appeared recently. One in the NetQuake version to do with server logging and one in the QuakeWorld version to do with the grapple. I'm releasing a 4.21 as a very minor patch to the 4.2 code that addresses these two problems. I had no plans to make another release, but these two bugs are serious enough to warrant it. Here is the 4.21 archive (it only contains the new progs, no docs). The 3wave42.zip archive contains full documentation.
+
+-- [http://www.shugashack.com/archives/d6_n30.htm](https://web.archive.org/web/20000816012328/http://www.shugashack.com/archives/d6_n30.htm) (archived)
+
+
+Content of `3wave421.zip`:
+
+```text
+-rw-rw-r--  0 0      0         527  5 Dec  1997 readme.txt
+-rw-rw-r--  0 0      0      287492  5 Dec  1997 progs.dat
+-rw-rw-r--  0 0      0      262204  5 Dec  1997 qwprogs.dat
+-rw-rw-r--  0 0      0       36824  5 May  1997 src/teamplay.qc
+-rw-rw-r--  0 0      0        2910  6 Oct  1996 src/buttons.qc
+-rw-rw-r--  0 0      0        9194  5 Dec  1997 src/status.qc
+-rw-rw-r--  0 0      0       16416  2 Apr  1997 src/misc.qc
+-rw-rw-r--  0 0      0        5601 15 Dec  1996 src/subs.qc
+-rw-rw-r--  0 0      0       17138  6 Oct  1996 src/doors.qc
+-rw-rw-r--  0 0      0       14259 19 Oct  1996 src/triggers.qc
+-rw-rw-r--  0 0      0       11521 10 Apr  1997 src/world.qc
+-rw-rw-r--  0 0      0        2598  5 Dec  1997 src/progdefs.h
+-rw-rw-r--  0 0      0        1560 19 Oct  1996 src/telefrag.qc
+-rw-rw-r--  0 0      0         808 31 Mar  1997 src/charset.txt
+-rw-rw-r--  0 0      0        6426  5 Dec  1997 src/files.dat
+-rw-rw-r--  0 0      0        6961 29 Apr  1997 src/hook.qc
+-rw-rw-r--  0 0      0        2368 20 Dec  1996 src/server.qc
+-rw-rw-r--  0 0      0        4121  2 Apr  1997 src/ctfgame.qc
+-rw-rw-r--  0 0      0         282 22 Apr  1997 src/notes.txt
+-rw-rw-r--  0 0      0         399  1 May  1997 src/progs.src
+-rw-rw-r--  0 0      0        6162  1 May  1997 src/observ.qc
+-rw-rw-r--  0 0      0       15192  1 May  1997 src/admin.qc
+-rw-rw-r--  0 0      0       33876  2 May  1997 src/weapons.qc
+-rw-rw-r--  0 0      0        1797  2 May  1997 src/ident.qc
+-rw-rw-r--  0 0      0       18832 30 May  1997 src/player.qc
+-rw-rw-r--  0 0      0        7732 21 Jun  1997 src/plats.qc
+-rw-rw-r--  0 0      0        7310 22 Jun  1997 src/combat.qc
+-rw-rw-r--  0 0      0       20421 12 Jul  1997 src/defs.qc
+-rw-rw-r--  0 0      0       52315 12 Jul  1997 src/client.qc
+-rw-rw-r--  0 0      0       35115 12 Jul  1997 src/items.qc
+-rw-rw-r--  0 0      0         650 29 Oct  1997 src/log.qc
+-rw-rw-r--  0 0      0       35567  5 Dec  1997 qwsrc/weapons.qc
+-rw-rw-r--  0 0      0        8199 21 Jun  1997 qwsrc/plats.qc
+-rw-rw-r--  0 0      0        2683 14 Aug  1997 qwsrc/spectate.qc
+-rw-rw-r--  0 0      0        5888  4 Dec  1996 qwsrc/subs.qc
+-rw-rw-r--  0 0      0       15261 14 Jul  1997 qwsrc/triggers.qc
+-rw-rw-r--  0 0      0        4065  9 Apr  1997 qwsrc/ctfgame.qc
+-rw-rw-r--  0 0      0        2541  5 Dec  1997 qwsrc/progdefs.h
+-rw-rw-r--  0 0      0       12075 15 Aug  1997 qwsrc/world.qc
+-rw-rw-r--  0 0      0       45704 15 Aug  1997 qwsrc/client.qc
+-rw-rw-r--  0 0      0       17217 26 Feb  1997 qwsrc/doors.qc
+-rw-rw-r--  0 0      0        1560  4 Dec  1996 qwsrc/telefrag.qc
+-rw-rw-r--  0 0      0        3051  4 Dec  1996 qwsrc/buttons.qc
+-rw-rw-r--  0 0      0       39965 14 Aug  1997 qwsrc/teamplay.qc
+-rw-rw-r--  0 0      0         655  4 Dec  1996 qwsrc/charset.txt
+-rw-rw-r--  0 0      0        7749 22 Jun  1997 qwsrc/combat.qc
+-rw-rw-r--  0 0      0       21762 15 Aug  1997 qwsrc/defs.qc
+-rw-rw-r--  0 0      0        6385  5 Dec  1997 qwsrc/files.dat
+-rw-rw-r--  0 0      0       35210 15 Aug  1997 qwsrc/items.qc
+-rw-rw-r--  0 0      0        9515  4 Dec  1996 qwsrc/models.qc
+-rw-rw-r--  0 0      0        9324  5 Dec  1997 qwsrc/status.qc
+-rw-rw-r--  0 0      0        2464  4 Dec  1996 qwsrc/server.qc
+-rw-rw-r--  0 0      0         473  4 Dec  1996 qwsrc/sprites.qc
+-rw-rw-r--  0 0      0       13446 21 Jul  1997 qwsrc/grapple.qc
+-rw-rw-r--  0 0      0         276 14 Aug  1997 qwsrc/progs.src
+-rw-rw-r--  0 0      0       17189 13 Apr  1997 qwsrc/misc.qc
+-rw-rw-r--  0 0      0        1797  2 May  1997 qwsrc/ident.qc
+-rw-rw-r--  0 0      0       19937 30 May  1997 qwsrc/player.qc
+```
+
+Content of readme:
+
+```text
+This archive contains two server prog files for NetQuake and QuakeWorld, both
+updated to CTF4.21.  The NetQuake version fixes a logging bug and the
+QuakeWorld version fixes a grapple bug.
+
+Note that for logging to occur in the NetQuake version you must enable
+the developer cvar (developer 1 at the console, or +developer 1 on the
+command line).
+
+Please download 4.2 for full documentation.
+http://www.cdrom.com/pub/quake/planetquake/threewave/ctf/server/3wave42.zip
+
+/// Zoid.
+zoid@idsoftware.com
+
+Dec '05/97
+```
+
+-- readme.txt
+
+
+
+## v4.21 + Docs
+
+An updated version of the release that includes the documentation was released circa September 24th 2000 as `3wave421d.zip`.
+
+No announcement has been located at the time of writing.
+
+Content of `3wave421d.zip`:
+
+```text
+-rw-rw-r--  0 0      0         773 24 Sep  2000 3wave421x/readme.txt
+-rw-rw-r--  0 0      0      287492  5 Dec  1997 3wave421x/progs.dat
+-rw-rw-r--  0 0      0      262204  5 Dec  1997 3wave421x/qwprogs.dat
+drwxrwxr-x  0 0      0           0 24 Sep  2000 3wave421x/src/
+-rw-rw-r--  0 0      0       36824  5 May  1997 3wave421x/src/teamplay.qc
+-rw-rw-r--  0 0      0        2910  6 Oct  1996 3wave421x/src/buttons.qc
+-rw-rw-r--  0 0      0        9194  5 Dec  1997 3wave421x/src/status.qc
+-rw-rw-r--  0 0      0       16416  2 Apr  1997 3wave421x/src/misc.qc
+-rw-rw-r--  0 0      0        5601 15 Dec  1996 3wave421x/src/subs.qc
+-rw-rw-r--  0 0      0       17138  6 Oct  1996 3wave421x/src/doors.qc
+-rw-rw-r--  0 0      0       14259 19 Oct  1996 3wave421x/src/triggers.qc
+-rw-rw-r--  0 0      0       11521 10 Apr  1997 3wave421x/src/world.qc
+-rw-rw-r--  0 0      0        2598  5 Dec  1997 3wave421x/src/progdefs.h
+-rw-rw-r--  0 0      0        1560 19 Oct  1996 3wave421x/src/telefrag.qc
+-rw-rw-r--  0 0      0         808 31 Mar  1997 3wave421x/src/charset.txt
+-rw-rw-r--  0 0      0        6426  5 Dec  1997 3wave421x/src/files.dat
+-rw-rw-r--  0 0      0        6961 29 Apr  1997 3wave421x/src/hook.qc
+-rw-rw-r--  0 0      0        2368 20 Dec  1996 3wave421x/src/server.qc
+-rw-rw-r--  0 0      0        4121  2 Apr  1997 3wave421x/src/ctfgame.qc
+-rw-rw-r--  0 0      0         282 22 Apr  1997 3wave421x/src/notes.txt
+-rw-rw-r--  0 0      0         399  1 May  1997 3wave421x/src/progs.src
+-rw-rw-r--  0 0      0        6162  1 May  1997 3wave421x/src/observ.qc
+-rw-rw-r--  0 0      0       15192  1 May  1997 3wave421x/src/admin.qc
+-rw-rw-r--  0 0      0       33876  2 May  1997 3wave421x/src/weapons.qc
+-rw-rw-r--  0 0      0        1797  2 May  1997 3wave421x/src/ident.qc
+-rw-rw-r--  0 0      0       18832 30 May  1997 3wave421x/src/player.qc
+-rw-rw-r--  0 0      0        7732 21 Jun  1997 3wave421x/src/plats.qc
+-rw-rw-r--  0 0      0        7310 22 Jun  1997 3wave421x/src/combat.qc
+-rw-rw-r--  0 0      0       20421 12 Jul  1997 3wave421x/src/defs.qc
+-rw-rw-r--  0 0      0       52315 12 Jul  1997 3wave421x/src/client.qc
+-rw-rw-r--  0 0      0       35115 12 Jul  1997 3wave421x/src/items.qc
+-rw-rw-r--  0 0      0         650 29 Oct  1997 3wave421x/src/log.qc
+drwxrwxr-x  0 0      0           0 24 Sep  2000 3wave421x/qwsrc/
+-rw-rw-r--  0 0      0       35567  5 Dec  1997 3wave421x/qwsrc/weapons.qc
+-rw-rw-r--  0 0      0        8199 21 Jun  1997 3wave421x/qwsrc/plats.qc
+-rw-rw-r--  0 0      0        2683 14 Aug  1997 3wave421x/qwsrc/spectate.qc
+-rw-rw-r--  0 0      0        5888  4 Dec  1996 3wave421x/qwsrc/subs.qc
+-rw-rw-r--  0 0      0       15261 14 Jul  1997 3wave421x/qwsrc/triggers.qc
+-rw-rw-r--  0 0      0        4065  9 Apr  1997 3wave421x/qwsrc/ctfgame.qc
+-rw-rw-r--  0 0      0        2541  5 Dec  1997 3wave421x/qwsrc/progdefs.h
+-rw-rw-r--  0 0      0       12075 15 Aug  1997 3wave421x/qwsrc/world.qc
+-rw-rw-r--  0 0      0       45704 15 Aug  1997 3wave421x/qwsrc/client.qc
+-rw-rw-r--  0 0      0       17217 26 Feb  1997 3wave421x/qwsrc/doors.qc
+-rw-rw-r--  0 0      0        1560  4 Dec  1996 3wave421x/qwsrc/telefrag.qc
+-rw-rw-r--  0 0      0        3051  4 Dec  1996 3wave421x/qwsrc/buttons.qc
+-rw-rw-r--  0 0      0       39965 14 Aug  1997 3wave421x/qwsrc/teamplay.qc
+-rw-rw-r--  0 0      0         655  4 Dec  1996 3wave421x/qwsrc/charset.txt
+-rw-rw-r--  0 0      0        7749 22 Jun  1997 3wave421x/qwsrc/combat.qc
+-rw-rw-r--  0 0      0       21762 15 Aug  1997 3wave421x/qwsrc/defs.qc
+-rw-rw-r--  0 0      0        6385  5 Dec  1997 3wave421x/qwsrc/files.dat
+-rw-rw-r--  0 0      0       35210 15 Aug  1997 3wave421x/qwsrc/items.qc
+-rw-rw-r--  0 0      0        9515  4 Dec  1996 3wave421x/qwsrc/models.qc
+-rw-rw-r--  0 0      0        9324  5 Dec  1997 3wave421x/qwsrc/status.qc
+-rw-rw-r--  0 0      0        2464  4 Dec  1996 3wave421x/qwsrc/server.qc
+-rw-rw-r--  0 0      0         473  4 Dec  1996 3wave421x/qwsrc/sprites.qc
+-rw-rw-r--  0 0      0       13446 21 Jul  1997 3wave421x/qwsrc/grapple.qc
+-rw-rw-r--  0 0      0         276 14 Aug  1997 3wave421x/qwsrc/progs.src
+-rw-rw-r--  0 0      0       17189 13 Apr  1997 3wave421x/qwsrc/misc.qc
+-rw-rw-r--  0 0      0        1797  2 May  1997 3wave421x/qwsrc/ident.qc
+-rw-rw-r--  0 0      0       19937 30 May  1997 3wave421x/qwsrc/player.qc
+drwxrwxr-x  0 0      0           0 24 Sep  2000 3wave421x/maps/
+-rw-rw-r--  0 0      0       30836 17 Sep  1996 3wave421x/maps/e1m1.ent
+-rw-rw-r--  0 0      0       46724 19 Feb  1997 3wave421x/maps/e1m2.ent
+-rw-rw-r--  0 0      0       52040 14 Apr  1997 3wave421x/maps/e1m3.ent
+-rw-rw-r--  0 0      0       46337 25 Sep  1996 3wave421x/maps/e1m4.ent
+-rw-rw-r--  0 0      0       45772 13 Apr  1997 3wave421x/maps/e1m5.ent
+-rw-rw-r--  0 0      0       38838 23 Sep  1996 3wave421x/maps/e1m6.ent
+-rw-rw-r--  0 0      0       39751 14 Apr  1997 3wave421x/maps/e1m8.ent
+-rw-rw-r--  0 0      0       37653 14 Apr  1997 3wave421x/maps/e2m1.ent
+-rw-rw-r--  0 0      0       30254 14 Apr  1997 3wave421x/maps/e2m2.ent
+-rw-rw-r--  0 0      0       42776 14 Apr  1997 3wave421x/maps/e2m3.ent
+-rw-rw-r--  0 0      0       45578  8 Oct  1996 3wave421x/maps/e2m5.ent
+-rw-rw-r--  0 0      0       42672  7 Oct  1996 3wave421x/maps/e4m3.ent
+-rw-rw-r--  0 0      0       48894 14 Apr  1997 3wave421x/maps/e4m5.ent
+-rw-rw-r--  0 0      0       43154 19 Oct  1996 3wave421x/maps/e4m6.ent
+-rw-rw-r--  0 0      0       46326 21 Oct  1996 3wave421x/maps/e4m4.ent
+-rw-rw-r--  0 0      0       12603 14 Apr  1997 3wave421x/maps/dm6.ent
+-rw-rw-r--  0 0      0       14410 31 Oct  1996 3wave421x/maps/dm3.ent
+-rw-rw-r--  0 0      0       37621 13 Apr  1997 3wave421x/maps/e4m8.ent
+-rw-rw-r--  0 0      0       34684 13 Apr  1997 3wave421x/maps/e3m7.ent
+-rw-rw-r--  0 0      0       60417 28 Feb  1997 3wave421x/maps/e3m4.ent
+-rw-rw-r--  0 0      0       55426 13 Apr  1997 3wave421x/maps/e2m7.ent
+-rw-rw-r--  0 0      0       11376 14 Apr  1997 3wave421x/maps/dm5.ent
+-rw-rw-r--  0 0      0       42640 25 Mar  1997 3wave421x/maps/e4m7.ent
+-rw-rw-r--  0 0      0       68779 13 Apr  1997 3wave421x/maps/e3m6.ent
+-rw-rw-r--  0 0      0       42952 13 Apr  1997 3wave421x/maps/e3m1.ent
+-rw-rw-r--  0 0      0       10676 14 Apr  1997 3wave421x/maps/dm1.ent
+-rw-rw-r--  0 0      0       20293 14 Apr  1997 3wave421x/maps/dm2.ent
+-rw-rw-r--  0 0      0        9946 14 Apr  1997 3wave421x/maps/dm4.ent
+-rw-rw-r--  0 0      0       15108  2 Feb  1997 3wave421x/maps/e1m7.ent
+-rw-rw-r--  0 0      0       49057 14 Apr  1997 3wave421x/maps/e2m4.ent
+-rw-rw-r--  0 0      0       49932 13 Apr  1997 3wave421x/maps/e2m6.ent
+-rw-rw-r--  0 0      0       31582 13 Apr  1997 3wave421x/maps/e3m2.ent
+-rw-rw-r--  0 0      0       35570 13 Apr  1997 3wave421x/maps/e3m3.ent
+-rw-rw-r--  0 0      0       50483 25 Mar  1997 3wave421x/maps/e3m5.ent
+-rw-rw-r--  0 0      0       43124 13 Apr  1997 3wave421x/maps/e4m1.ent
+-rw-rw-r--  0 0      0       28258 25 Mar  1997 3wave421x/maps/e4m2.ent
+-rw-rw-r--  0 0      0         108 18 Oct  1996 3wave421x/maps/dobsp.bat
+-rw-rw-r--  0 0      0          52  4 Oct  1996 3wave421x/maps/dobsp.sh
+-rw-rw-r--  0 0      0         146 24 Sep  2000 3wave421x/server.cfg
+-rw-rw-r--  0 0      0        1765  4 Oct  1996 3wave421x/capture.txt
+-rw-rw-r--  0 0      0         163 24 Sep  2000 3wave421x/autoexec.cfg
+-rw-rw-r--  0 0      0       36640 24 Sep  2000 3wave421x/server.txt
+drwxrwxr-x  0 0      0           0 24 Sep  2000 3wave421x/
+```
+
+Content of readme:
+
+```text
+Update Sept 2000 - 4.21 plus docs
+The link on cdrom.com is no longer valid, and this archive cannot be found
+there. I have included the Documentation from 4.2 to make it complete, and
+available as one package.
+
+///Casey
+Sept '24/00
+``
+
