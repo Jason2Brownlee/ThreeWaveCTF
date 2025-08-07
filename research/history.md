@@ -6,7 +6,7 @@ Developed to ensure that the [ThreeWave CTF Archive](https://github.com/Jason2Br
 
 If you have any additional information, missing releases, or private betas that you're happy to contribute to the archive/history, please reach out: jason.brownlee05@gmail.com
 
-## USENET Announcement September 1996
+## USENET Chatter
 
 Zoid shared a comment about working on server-side Quake mod/s in a Linux Quake related discussion on September 3rd 1996:
 
@@ -190,7 +190,7 @@ dave....@istar.ca \/ | R&D Dept. -- iSTAR Internet Inc.
 -- [rec.games.computer.quake.announce](https://groups.google.com/g/rec.games.computer.quake.announce/c/ODar_i97-SA/m/hVYXeG5jVmQJ)
 
 
-## BluesNews Announcement October 1996
+## BluesNews Announcement
 
 Zoid sent an email to BluesNews that was published on October 02 1996.
 
