@@ -2057,6 +2057,21 @@ Email    : zoid@threewave.com
 
 ## v4.0
 
+Screenshots for the release were shared on the threewave homepage, announced on BluesNews on March 21st 1997:
+
+> CTF 4.0 Screenshots\
+> There are screenshots of Threewave Capture the Flag 4.0 up at Threewave. This is great looking stuff...
+
+-- [https://www.bluesnews.com/archives/march97-3.html](https://www.bluesnews.com/archives/march97-3.html)
+
+Which linked to:
+
+* [http://www.planetquake.com/quakex/threewave/newstuff/index.html](https://web.archive.org/web/19970611034324/http://www.planetquake.com/quakex/threewave/newstuff/index.html) (archived)
+
+All screenshots can be seen here:
+
+* [http://www.planetquake.com/quakex/threewave/newstuff/full.html](https://web.archive.org/web/19970611070812/http://www.planetquake.com/quakex/threewave/newstuff/full.html) (archived)
+
 A preparation announcement was made on BluesNews on April 15th 1997:
 
 > CTF 4.0 Release Party\
@@ -2435,6 +2450,20 @@ Email    : zoid@threewave.com
 
 ## v4.2
 
+Development of the release was announced on BluesNews on June 5th 1997:
+
+> Zoid on QuakeWorld and CTF 4.2\
+> Zoid has posted word on Threewave that he's planning a bug-fixed Threewave CTF 4.2 "soon". [...]
+
+-- [https://www.bluesnews.com/archives/may97-5.html](https://www.bluesnews.com/archives/may97-5.html)
+
+This was also mentioned on Redwood's:
+
+> Zoid QW/CTF 4.2 Update\
+> Zoid has updated Threewave with what he and Jack are doing on QuakeWorld and also a little about CTF 4.2. Thanks to DaKoTa for that news tip.
+
+-- [http://redwood.stomped.com/697.html](https://web.archive.org/web/20010830150348/http://redwood.stomped.com/697.html) (archived)
+
 This was intended to be the final release of the mod.
 
 Zoid shared a large message on the threewave homepage detailing the history of the mod and the impact it had.
@@ -2477,20 +2506,6 @@ Zoid shared a large message on the threewave homepage detailing the history of t
 > /// Zoid.
 
 -- [http://threewave.planetquake.com/](https://web.archive.org/web/19971224200252/http://threewave.planetquake.com/) (archived)
-
-Development of the release was announced on BluesNews on June 5th 1997:
-
-> Zoid on QuakeWorld and CTF 4.2\
-> Zoid has posted word on Threewave that he's planning a bug-fixed Threewave CTF 4.2 "soon". [...]
-
--- [https://www.bluesnews.com/archives/may97-5.html](https://www.bluesnews.com/archives/may97-5.html)
-
-This was also mentioned on Redwood's:
-
-> Zoid QW/CTF 4.2 Update\
-> Zoid has updated Threewave with what he and Jack are doing on QuakeWorld and also a little about CTF 4.2. Thanks to DaKoTa for that news tip.
-
--- [http://redwood.stomped.com/697.html](https://web.archive.org/web/20010830150348/http://redwood.stomped.com/697.html) (archived)
 
 The release was announced on Redwood's on July 25th 1997:
 
@@ -3071,4 +3086,8 @@ Threewave homepages:
 * [http://www.captured.com/threewave/](https://web.archive.org/web/19981202093403/http://www.captured.com/threewave/)
 * [http://threewave.com/](https://web.archive.org/web/19991013145630/http://threewave.com:80/)
 
+References:
 
+* [Capture the Flag, BluesNews](https://www.bluesnews.com/guide/ctf.htm)
+* [Zoid Interview, Xenocide](https://web.archive.org/web/20010504050414fw/http://www.captured.com/academy/NEWS/zoid_interviews_body.htm) (archived)
+* [Capture the Zoid, TCMag](https://web.archive.org/web/19970607042034/http://www.frag.com/tcmag/interviews/zoidint.htm) (archived)
